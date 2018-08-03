@@ -1,2 +1,2 @@
 # Stream
-Türkçe translate
+Wordpress Stream eklentisinin Türkçe çevirisi
