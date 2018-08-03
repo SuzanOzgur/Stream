@@ -1,0 +1,3014 @@
+# Translation of Plugins - Stream - Stable Readme (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - Stream - Stable Readme (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-03 12:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - Stream - Stable Readme (latest release)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-31 20:33+0000\n"
+"Last-Translator: suzan <suzan.ozgr@outlook.com>\n"
+"Language-Team: Turkish"
+
+#. Short description.
+msgid ""
+"Planes have a black box, WordPress has Stream. When something goes wrong, "
+"you need to know how it happened."
+msgstr ""
+"Uçakların kara kutusu var, WordPress'in Stream'i var. Bir şeyler ters "
+"gittiğinde, nasıl olduğunu bilmelisin."
+
+#. Plugin name.
+msgid "Stream"
+msgstr "Stream"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/DavidCramer\">@DavidCramer</a>, <a "
+"href=\"https://github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https:"
+"//github.com/frozzare\">@frozzare</a>, <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>, <a href=\"https://github.com/shadyvb\">"
+"@shadyvb</a>, <a href=\"https://github.com/valendesigns\">@valendesigns</a>, "
+"<a href=\"https://github.com/robbiet480\">@robbiet480</a>, <a href=\"https:"
+"//github.com/cfoellmann\">@cfoellmann</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/DavidCramer\">@DavidCramer</a>, <a "
+"href=\"https://github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https:"
+"//github.com/frozzare\">@frozzare</a>, <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>, <a href=\"https://github.com/shadyvb\">"
+"@shadyvb</a>, <a href=\"https://github.com/valendesigns\">@valendesigns</a>, "
+"<a href=\"https://github.com/robbiet480\">@robbiet480</a>, <a href=\"https:"
+"//github.com/cfoellmann\">@cfoellmann</a>"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Stream is network activated if it's a must-use plugin on a multisite "
+"(<a href=\"https://github.com/xwp/stream/pull/956\">#956</a>)"
+msgstr ""
+"Düzeltme: Aktarım, çoklu sitelerde zorunlu kullanım eklentisi ise Stream "
+"ağını etkinleşir (<a href=\"https://github.com/xwp/stream/pull/956\">#956</a>"
+")"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Performance improvement when listing roles (<a href=\"https://github."
+"com/xwp/stream/pull/964\">#964</a>)"
+msgstr ""
+"Tweak: Rolleri listelerken performans artışı (<a href=\"https://github."
+"com/xwp/stream/pull/964\">#964</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Show real client IP (if available) when in reverse-proxy mode (<a "
+"href=\"https://github.com/xwp/stream/pull/969\">#969</a> <a href=\"https:"
+"//github.com/xwp/stream/pull/963\">#963</a>)"
+msgstr ""
+"Tweak: Ters proxy modundayken gerçek istemci IP'sini (varsa) göster (<a "
+"href=\"https://github.com/xwp/stream/pull/969\">#969</a> <a href=\"https:"
+"//github.com/xwp/stream/pull/963\">#963</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Coding standards updates (<a href=\"https://github."
+"com/xwp/stream/pull/975\">#975</a>)"
+msgstr ""
+"Tweak: Kodlama standart güncellemeleri (<a href=\"https://github."
+"com/xwp/stream/pull/975\">#975</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: WP CLI Namespace collision (<a href=\"https://github."
+"com/xwp/stream/pull/944\">#944</a>)"
+msgstr ""
+"Düzeltme: WP CLI Ad Alanı çarpışması (<a href=\"https://github."
+"com/xwp/stream/pull/944\">#944</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Update Datetime extension (<a href=\"https://github."
+"com/xwp/stream/pull/966\">#966</a>)"
+msgstr ""
+"Düzeltme: Güncelleme Tarih Saat uzantısı  (<a href=\"https://github."
+"com/xwp/stream/pull/966\">#966</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Stripped settings and alerts inputs (<a href=\"https://github."
+"com/xwp/stream/pull/968\">#968</a>)"
+msgstr ""
+"Düzeltme: Stripped ayarlar ve girişleri uyarır (<a href=\"https://github."
+"com/xwp/stream/pull/968\">#968</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Make reset nonce unique (<a href=\"https://github."
+"com/xwp/stream/pull/972\">#972</a>)"
+msgstr ""
+"Düzeltme: Benzersiz olmayan sıfırlama yap (<a href=\"https://github."
+"com/xwp/stream/pull/972\">#972</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: PHP 7.1 compatibility fix (<a href=\"https://github."
+"com/xwp/stream/pull/974\">#974</a>)"
+msgstr ""
+"Düzeltme: PHP 7.1 uyumluluk düzeltmesi (<a href=\"https://github."
+"com/xwp/stream/pull/974\">#974</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Alert type – Slack alerts! (<a href=\"https://github."
+"com/xwp/stream/pull/970\">#970</a> <a href=\"https://github."
+"com/xwp/stream/pull/962\">#962</a>)"
+msgstr ""
+"Yeni: Uyarı tipi - Slack uyarıları! (<a href=\"https://github."
+"com/xwp/stream/pull/970\">#970</a> <a href=\"https://github."
+"com/xwp/stream/pull/962\">#962</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Use minimized assets (<a href=\"https://github."
+"com/xwp/stream/pull/973\">#973</a>)"
+msgstr ""
+"Yeni: Küçültülmüş varlıkları kullanın (<a href=\"https://github."
+"com/xwp/stream/pull/973\">#973</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Prevent fatal error when attempting to store an Object in the database."
+msgstr ""
+"Düzeltme: Bir Nesneyi veritabanında depolamaya çalışırken önemli bir hatayı "
+"önleyin."
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Better DB migration support (<a href=\"https://github."
+"com/xwp/stream/pull/905\">#905</a>)"
+msgstr ""
+"Tweak: Daha iyi DB geçiş desteği (<a href=\"https://github."
+"com/xwp/stream/pull/905\">#905</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Codeclimate &amp; Editorconfig support (<a href=\"https://github."
+"com/xwp/stream/pull/896\">#896</a>)"
+msgstr ""
+"Tweak: Kod şartları ve Editör yapılandırma desteği (<a href=\"https://github."
+"com/xwp/stream/pull/896\">#896</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Various Network Admin bugs (<a href=\"https://github."
+"com/xwp/stream/pull/899\">#899</a>)"
+msgstr ""
+"Düzeltme: Çeşitli Ağ Yöneticisi hataları (<a href=\"https://github."
+"com/xwp/stream/pull/899\">#899</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Customizer performance issue (<a href=\"https://github."
+"com/xwp/stream/pull/898\">#898</a>)"
+msgstr ""
+"Düzeltme: Özelleştirici performans sorunu (<a href=\"https://github."
+"com/xwp/stream/pull/898\">#898</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Prevent loading of connectors on frontend (<a href=\"https://github."
+"com/xwp/stream/commit/ed3a635\">ed3a635</a>)"
+msgstr ""
+"Düzeltme: Ön taraftaki bağlayıcıların yüklenmesini önle (<a href=\"https:"
+"//github.com/xwp/stream/commit/ed3a635\">ed3a635</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Exclude dropdown menus (<a href=\"https://github."
+"com/xwp/stream/commit/e5c8677\">e5c8677</a>, <a href=\"https://github."
+"com/xwp/stream/commit/3626ba8\">3626ba8</a>, <a href=\"https://github."
+"com/xwp/stream/commit/e923a92\">e923a92</a>)"
+msgstr ""
+"Düzeltme: Açılır menüleri hariç tut (<a href=\"https://github."
+"com/xwp/stream/commit/e5c8677\">e5c8677</a>, <a href=\"https://github."
+"com/xwp/stream/commit/3626ba8\">3626ba8</a>, <a href=\"https://github."
+"com/xwp/stream/commit/e923a92\">e923a92</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Stream now support alternate Database Drivers. (<a href=\"https:"
+"//github.com/xwp/stream/pull/889\">#889</a>)"
+msgstr ""
+"Yeni: Stream şimdi alternatif Veritabanı Sürücülerini destekliyor. (<a "
+"href=\"https://github.com/xwp/stream/pull/889\">#889</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Stream fails to install properly (sometimes) due to database error. (<a "
+"href=\"https://github.com/xwp/stream/pull/934\">#934</a>)"
+msgstr ""
+"Düzeltme: Veri tabanı hatası nedeniyle Stream düzgün bir şekilde (bazen) "
+"yüklenemez. (<a href=\"https://github.com/xwp/stream/pull/934\">#934</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Undefined index ID issue when trashing post with customize-posts. (<a "
+"href=\"https://github.com/xwp/stream/pull/936\">#936</a>)"
+msgstr ""
+"Düzeltme: Özelleştirilmiş gönderimlerle gönderiyi gönderirken tanımlanmamış "
+"dizin kimliği sorunu. (<a href=\"https://github.com/xwp/stream/pull/936\">"
+"#936</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Readme spelling fixes (localised [sic] for en_US). (<a href=\"https:"
+"//github.com/xwp/stream/pull/928\">#928</a>)"
+msgstr ""
+"Düzeltme: Benioku yazım düzeltmeleri (en_US için yerelleştirilmiş [sic]). "
+"(<a href=\"https://github.com/xwp/stream/pull/928\">#928</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Add wp_stream_is_record_excluded filter. (<a href=\"https://github."
+"com/xwp/stream/pull/921\">#921</a>)"
+msgstr ""
+"Tweak: wp_stream_is_record_excluded filtre ekle. (<a href=\"https://github."
+"com/xwp/stream/pull/921\">#921</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Remove dependence on serializing functions. (<a href=\"https://github."
+"com/xwp/stream/pull/939\">#939</a>)"
+msgstr ""
+"Tweak: Serileştirme işlevlerine bağımlılığı kaldırın. (<a href=\"https:"
+"//github.com/xwp/stream/pull/939\">#939</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Added minimal composer file. (<a href=\"https://github."
+"com/xwp/stream/pull/932\">#932</a>"
+msgstr ""
+"Yeni: Minimum yaratıcı dosyası eklendi. (<a href=\"https://github."
+"com/xwp/stream/pull/932\">#932</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Support for the ACF Options page. (<a href=\"https://github."
+"com/xwp/stream/pull/931\">#931</a>)"
+msgstr ""
+"Yeni: ACF Seçenekleri sayfası için destek. (<a href=\"https://github."
+"com/xwp/stream/pull/931\">#931</a>)"
+
+#. Found in description paragraph.
+msgid "Thank you for wanting to make Stream better for everyone!"
+msgstr ""
+"Stream'i herkes için daha iyi hale getirmek istediğin için teşekkür ederiz!"
+
+#. Found in description paragraph.
+msgid ""
+"Stream is perfect for keeping tabs on your clients. When something breaks, "
+"Stream is there to help. See what changed and who changed it."
+msgstr ""
+"Stream, müşterilerinizle ilgili değişiklikleri kaydetmek için mükemmeldir. "
+"Bir şey bozulduğunda, Stream yardım edecektir. Neyin değiştiğini ve kimin "
+"değiştirdiğini görün."
+
+#. Found in description paragraph.
+msgid ""
+"For advanced users, Stream also supports a Multisite view of all activity "
+"records on your network, the ability to set exclude rules to ignore certain "
+"kinds of user activity, and a WP‑CLI command for querying records."
+msgstr ""
+"İleri düzey kullanıcılar için Stream, ağınızdaki tüm etkinlik kayıtlarının "
+"çok sayfalı bir görünümünü, belirli kullanıcı etkinliği türlerini göz ardı "
+"etmek için kuralları hariç tutma özelliğini ve kayıtları sorgulamak için bir "
+"WP ‑ CLI komutunu destekler."
+
+#. Found in description paragraph.
+msgid ""
+"With Stream, you're never left in the dark about WordPress Admin activity."
+msgstr ""
+"Stream ile, WordPress Yönetici etkinliği hakkında hiç karanlıkta kalmazsınız."
+
+#. Found in description list item.
+msgid "Export your Activity Stream as a CSV or JSON file"
+msgstr "Etkinlik Stream'inizi bir CSV veya JSON dosyası olarak dışa aktarın"
+
+#. Found in description paragraph.
+msgid ""
+"Great! There are several ways you can get involved to help make Stream "
+"better:"
+msgstr ""
+"Harika! Stream'i daha iyi hale getirmeye yardımcı olmanın çeşitli yolları "
+"vardır:"
+
+#. Found in description paragraph.
+msgid "<strong>See room for improvement?</strong>"
+msgstr "<strong> İyileştirme odasına bakın?</strong>"
+
+#. Found in description paragraph.
+msgid "<strong>Other Noteworthy Features:</strong>"
+msgstr "<strong>Diğer Dikkate Değer Özellikler:</strong>"
+
+#. Found in description paragraph.
+msgid "<strong>Built-In Tracking For Core Actions:</strong>"
+msgstr "<strong>Çekirdek Eylemler İçin Yerleşik İzleme:</strong>"
+
+#. Found in description paragraph.
+msgid "<strong>Built-In Tracking Integrations For Popular Plugins:</strong>"
+msgstr ""
+"<strong>Popüler Eklentiler İçin Yerleşik İzleme Entegrasyonları:</strong>"
+
+#. Found in description paragraph.
+msgid ""
+"Every logged-in user action is displayed in an activity stream and organized "
+"for easy filtering by User, Role, Context, Action or IP address."
+msgstr ""
+"Oturum açan her kullanıcı eylemi bir etkinlik akışında görüntülenir ve "
+"Kullanıcı, Rol, Bağlam, Eylem veya IP adresi ile kolayca filtrelemek için "
+"düzenlenir."
+
+#. Found in description list item.
+msgid ""
+"<strong>Issue Pull Requests:</strong> If you're a developer, the easiest way "
+"to get involved is to help out on <a href=\"https://github.com/x-team/wp-"
+"stream/issues\">issues already reported</a> in GitHub. Be sure to check out "
+"the <a href=\"https://github.com/x-team/wp-stream/blob/master/contributing."
+"md\">contributing guide</a> for developers."
+msgstr ""
+"<strong> Sorun Çekme İstekleri: </strong> Bir geliştiriciyseniz, dahil "
+"olmanın en kolay yolu <a href=\"https://github.com/x-team/wp-stream/issues\">"
+"Github da sorunlar zaten önceden bildirilmiştir</a>.  Geliştiriciler için <a "
+"href=\"https://github.com/x-team/wp-stream/blob/master/contributing.md\"> "
+"katkıda bulunan kılavuzu </a> kontrol ettiğinizden emin olun."
+
+#. Found in description list item.
+msgid ""
+"<strong>Suggest New Features:</strong> Have an awesome idea? Please share it!"
+" Simply <a href=\"https://wordpress.org/support/plugin/stream\">create a new "
+"topic</a> in the plugin forum to express your thoughts on why the feature "
+"should be included and get a discussion going around your idea."
+msgstr ""
+"<strong>Yeni Özellikleri Önerin:</strong> Harika bir fikriniz mi var? Lütfen "
+"paylaşın! Eklenti forumunda <a href=\"https://wordpress."
+"org/support/plugin/stream\"> yeni bir konu oluşturun </a>  özelliğin neden "
+"dahil edilmesi gerektiğine dair düşüncelerinizi ifade edin ve fikriniz "
+"tartışma konusu olsun."
+
+#. Found in description list item.
+msgid ""
+"<strong>Report Bugs:</strong> If you find a bug, error or other problem, "
+"please report it! You can do this by <a href=\"https://wordpress."
+"org/support/plugin/stream\">creating a new topic</a> in the plugin forum. "
+"Once a developer can verify the bug by reproducing it, they will create an "
+"official bug report in GitHub where the bug will be worked on."
+msgstr ""
+"<strong> Rapor Hataları: </strong> Bir yazılımsal hata, programsal hata veya "
+"başka bir sorun bulursanız, lütfen bildirin! Bunu eklenti forumunda <a "
+"href=\"https://wordpress.org/support/plugin/stream\"> yeni bir konu "
+"oluşturarak </a> yapabilirsiniz. Bir geliştirici,  hatayı yeniden üreterek "
+"doğrulayabildiğinde, hatanın çalışacağı GitHub'da resmi bir hata raporu "
+"oluşturur."
+
+#. Found in description list item.
+msgid "WP-CLI command for querying records"
+msgstr "Kayıtları sorgulamak için WP-CLI komutu"
+
+#. Found in description list item.
+msgid "Live updates of user activity records in the Stream"
+msgstr "Stream'deki kullanıcı etkinliği kayıtlarının canlı güncellemeleri"
+
+#. Found in description list item.
+msgid "Set exclude rules to ignore certain kinds of user activity"
+msgstr ""
+"Belirli kullanıcı etkinliği türlerini yok saymak için kuralları hariç tutun "
+
+#. Found in description list item.
+msgid "Limit who can view user activity records by user role"
+msgstr ""
+"Kullanıcı etkinliği kayıtlarını kullanıcı rolüne göre kimin görebileceğini "
+"sınırla"
+
+#. Found in description list item.
+msgid "Multisite view of all activity records on a network"
+msgstr "Bir ağdaki tüm etkinlik kayıtlarının çok sayfalı görünümü"
+
+#. Found in description list item.
+msgid "WordPress Core Updates"
+msgstr "WordPress Temel Güncellemeleri"
+
+#. Found in description list item.
+msgid "Theme Editor"
+msgstr "Tema Editörü"
+
+#. Found in description list item.
+msgid "Comments"
+msgstr "Yorumlar"
+
+#. Found in description list item.
+msgid "Widgets"
+msgstr "Widgets"
+
+#. Found in description list item.
+msgid "Media Library"
+msgstr "Medya Kütüphanesi"
+
+#. Found in description list item.
+msgid "Menus"
+msgstr "Menüler"
+
+#. Found in description list item.
+msgid "Custom Headers"
+msgstr "Özel Üstbilgiler"
+
+#. Found in description list item.
+msgid "Custom Backgrounds"
+msgstr "Özel Arka Planlar"
+
+#. Found in description list item.
+msgid "Settings"
+msgstr "Seçenekler"
+
+#. Found in description list item.
+msgid "Custom Taxonomies"
+msgstr "Özel Taksonomiler"
+
+#. Found in description list item.
+msgid "Categories"
+msgstr "Kategoriler"
+
+#. Found in description list item.
+msgid "Tags"
+msgstr "Etiketler"
+
+#. Found in description list item.
+msgid "Plugins"
+msgstr "Eklentiler"
+
+#. Found in description list item.
+msgid "Themes"
+msgstr "Temalar"
+
+#. Found in description list item.
+msgid "Users"
+msgstr "Kullanıcılar"
+
+#. Found in description list item.
+msgid "Custom Post Types"
+msgstr "Özel Posta Tipleri"
+
+#. Found in description list item.
+msgid "Pages"
+msgstr "Sayfalar"
+
+#. Found in description list item.
+msgid "Posts"
+msgstr "Gönderiler"
+
+#. Found in description list item.
+msgid "WordPress SEO by Yoast"
+msgstr "WordPress SEO Yoast tarafından"
+
+#. Found in description list item.
+msgid "WooCommerce"
+msgstr "Woocommerce"
+
+#. Found in description list item.
+msgid "User Switching"
+msgstr "User Switching"
+
+#. Found in description list item.
+msgid "Jetpack"
+msgstr "Jetpack"
+
+#. Found in description list item.
+msgid "Gravity Forms"
+msgstr "Gravity Formları"
+
+#. Found in description list item.
+msgid "Easy Digital Downloads"
+msgstr "Kolay Dijital İndirmeler"
+
+#. Found in description list item.
+msgid "BuddyPress"
+msgstr "BuddyPress"
+
+#. Found in description list item.
+msgid "bbPress"
+msgstr "bbPress"
+
+#. Found in description list item.
+msgid "Advanced Custom Fields"
+msgstr "Gelişmiş Özel Alanlar"
+
+#. Screenshot description.
+msgid ""
+"Create rules for excluding certain kinds of records from appearing in Stream."
+msgstr ""
+"Stream de görünen belirli kayıt türlerini hariç tutmak için kurallar "
+"oluşturun."
+
+#. Screenshot description.
+msgid ""
+"Enable live updates in Screen Options to watch your site activity appear in "
+"near real-time."
+msgstr ""
+"Site etkinliğinizin gerçek zamanlı olarak görünmesini izlemek için Ekran "
+"Seçeneklerinde canlı güncellemeleri etkinleştirin."
+
+#. Screenshot description.
+msgid ""
+"Every logged-in user action is displayed in an activity stream and organized "
+"for easy filtering and searching."
+msgstr ""
+"Oturum açan her kullanıcı eylemi etkinlik akışında görüntülenir ve kolay "
+"filtreleme ve arama için düzenlenir."
+
+#. Found in changelog list item.
+msgid "Fix: Hotfix for Error Updating Stream DB."
+msgstr "Düzeltme: Strea DB Güncelleme Hatası için Düzeltme"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/chacha\">@chacha</a>, <a href=\"https:"
+"//github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https://github."
+"com/johnbillion\">@johnbillion</a>, <a href=\"https://github."
+"com/rheinardkorf\">@rheinardkorf</a>, <a href=\"https://github."
+"com/frozzare\">@frozzare</a>, <a href=\"https://github.com/johnregan3\">"
+"@johnregan3</a>, <a href=\"https://github.com/jacobschweitzer\">"
+"@jacobschweitzer</a>, <a href=\"https://github.com/wrongware\">@wrongware</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/chacha\">@chacha</a>, <a href=\"https:"
+"//github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https://github."
+"com/johnbillion\">@johnbillion</a>, <a href=\"https://github."
+"com/rheinardkorf\">@rheinardkorf</a>, <a href=\"https://github."
+"com/frozzare\">@frozzare</a>, <a href=\"https://github.com/johnregan3\">"
+"@johnregan3</a>, <a href=\"https://github.com/jacobschweitzer\">"
+"@jacobschweitzer</a>, <a href=\"https://github.com/wrongware\">@wrongware</a>"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Custom roles track properly (<a href=\"https://github."
+"com/xwp/stream/pull/836\">#836</a>)"
+msgstr ""
+"Düzeltme: Özel roller gerektiği gibi izlenecek (<a href=\"https://github."
+"com/xwp/stream/pull/836\">#836</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Activating Stream through WP CLI now works (<a href=\"https://github."
+"com/xwp/stream/pull/880\">#880</a>)"
+msgstr ""
+"Düzeltme: WP CLI aracılığıyla Stream'i Etkinleştirme artık çalışıyor (<a "
+"href=\"https://github.com/xwp/stream/pull/880\">#880</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Fatal error caused by conflict with Yoast SEO (<a href=\"https://github."
+"com/xwp/stream/pull/879\">#879</a>)"
+msgstr ""
+"Düzeltme: Yoast SEO ile çatışma sebebiyle ölümcül hata (<a href=\"https:"
+"//github.com/xwp/stream/pull/879\">#879</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Better taxonomy labeling (<a href=\"https://github."
+"com/xwp/stream/pull/859\">#859</a>)"
+msgstr ""
+"Tweak: Daha iyi taksonomi etiketlemesi (<a href=\"https://github."
+"com/xwp/stream/pull/859\">#859</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Better support for the latest version of WooCommerce (<a href=\"https:"
+"//github.com/xwp/stream/pull/851\">#851</a><a href=\"https://github."
+"com/xwp/stream/pull/864\">#864</a>)"
+msgstr ""
+"Tweak: WooCommerce'in en son sürümü için daha iyi destek <a href=\"https:"
+"//github.com/xwp/stream/pull/851\">#851</a><a href=\"https://github."
+"com/xwp/stream/pull/864\">#864</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Better support for the latest version of Yoast SEO (<a href=\"https:"
+"//github.com/xwp/stream/pull/838\">#838</a>)"
+msgstr ""
+"Tweak: Yoast SEO'nun son sürümü için daha iyi destek (<a href=\"https:"
+"//github.com/xwp/stream/pull/838\">#838</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Stream Alerts is here! Get notified when something happens in your WP-"
+"Admin, so that you don't miss a thing. (<a href=\"https://github."
+"com/xwp/stream/pull/844\">#844</a>)"
+msgstr ""
+"Yeni: Stream Uyarıları burada! WP-Admin'inizde bir şey olduğunda bildirim "
+"alın, böylece bir şeyi kaçırmayın. (<a href=\"https://github."
+"com/xwp/stream/pull/844\">#844</a>)"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/chacha\">@chacha</a>, <a href=\"https:"
+"//github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https://github."
+"com/marcin-lawrowski\">@marcin-lawrowski</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/chacha\">@chacha</a>, <a href=\"https:"
+"//github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https://github."
+"com/marcin-lawrowski\">@marcin-lawrowski</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/chacha\">@chacha</a>, <a href=\"https:"
+"//github.com/lukecarbis\">@lukecarbis</a>, Eugene Kireev, <a href=\"https:"
+"//github.com/johnbillion\">@johnbillion</a>"
+msgstr ""
+"Destekler  <a href=\"https://github.com/chacha\">@chacha</a>, <a "
+"href=\"https://github.com/lukecarbis\">@lukecarbis</a>, Eugene Kireev, <a "
+"href=\"https://github.com/johnbillion\">@johnbillion</a>"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Use the correct label for events relating to taxonomies which are "
+"registered late (<a href=\"https://github.com/xwp/stream/pull/859\">#859</a>)"
+msgstr ""
+"Düzeltme: Geç kayıtlı taksonomilerle ilgili etkinlikler için doğru etiketi "
+"kullanın (<a href=\"https://github.com/xwp/stream/pull/859\">#859</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Loading users via ajax (<a href=\"https://github."
+"com/xwp/stream/pull/854\">#854</a>)"
+msgstr ""
+"Düzeltme: Ajax ile kullanıcı yükleme (<a href=\"https://github."
+"com/xwp/stream/pull/854\">#854</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Exclude rule settings have been restored and enhanced (<a href=\"https:"
+"//github.com/xwp/stream/pull/855\">#855</a>)"
+msgstr ""
+"Onar: Kural ayarlarının geri yüklendiği ve yükseltildiği hariç tutulur (<a "
+"href=\"https://github.com/xwp/stream/pull/855\">#855</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Better multisite support (<a href=\"https://github."
+"com/xwp/stream/commit/cfab0413e67b83d969bd6612c895ecdb05dbfce4\">cfab041</a>)"
+msgstr ""
+"Tweak: Daha iyi çoklu site desteği (<a href=\"https://github."
+"com/xwp/stream/commit/cfab0413e67b83d969bd6612c895ecdb05dbfce4\">cfab041</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: More stable record actions (like exporting) (<a href=\"https://github."
+"com/xwp/stream/commit/71e6ac1ff66e4415909c7ae29b243733a1fd209d\">71e6ac1</a>)"
+msgstr ""
+"Tweak: Daha istikrarlı kayıt işlemleri (dışa aktarma gibi) (<a href=\"https:"
+"//github.com/xwp/stream/commit/71e6ac1ff66e4415909c7ae29b243733a1fd209d\">"
+"71e6ac1</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Use get_sites instead of wp_get_sites when available (<a href=\"https:"
+"//github.com/xwp/stream/pull/856\">#856</a>)"
+msgstr ""
+"Tweak: Kullanılabilir olduğunda wp_get_sites yerine get_sites kullanın (<a "
+"href=\"https://github.com/xwp/stream/pull/856\">#856</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Allow Super Admins to be ignored and filtered (<a href=\"https://github."
+"com/xwp/stream/pull/835\">#835</a>)"
+msgstr ""
+"Düzeltme: Süper Yöneticilerin yoksayılmasına ve filtrelenmesine izin ver (<a "
+"href=\"https://github.com/xwp/stream/pull/835\">#835</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Better at storing records for Super Admins (<a href=\"https://github."
+"com/xwp/stream/pull/835\">#835</a>)"
+msgstr ""
+"Düzeltme: Süper Yöneticiler için kayıt saklamada daha iyi (<a href=\"https:"
+"//github.com/xwp/stream/pull/835\">#835</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Cron for purging old records has been fixed (<a href=\"https://github."
+"com/xwp/stream/pull/843\">#843</a>)"
+msgstr ""
+"Düzeltme: Cron eski kayıtları temizlemek için düzeltildi (<a href=\"https:"
+"//github.com/xwp/stream/pull/843\">#843</a>)"
+
+#. Found in changelog list item.
+msgid "Fix: Security Fixes"
+msgstr "Düzeltme: Güvenlik Düzeltmeleri"
+
+#. Found in changelog list item.
+msgid ""
+"New: Upgrade filter menus to Select2 4 (<a href=\"https://github."
+"com/xwp/stream/commit/c3f6c65c1bd95cebb26da7f00a720050a9144586\">c3f6c65</a>)"
+msgstr ""
+"Yeni: Filtre menülerini Select2 4'e yükseltin (<a href=\"https://github."
+"com/xwp/stream/commit/c3f6c65c1bd95cebb26da7f00a720050a9144586\">c3f6c65</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Better support for default themes (<a href=\"https://github."
+"com/xwp/stream/pull/831\">#831</a>)"
+msgstr ""
+"Yeni: Varsayılan temalar için daha iyi destek (<a href=\"https://github."
+"com/xwp/stream/pull/831\">#831</a>)"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/lukecarbis\">@lukecarbis</a>, Props <a "
+"href=\"https://github.com/sirjonathan\">@sirjonathan</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/lukecarbis\">@lukecarbis</a>, Props "
+"<a href=\"https://github.com/sirjonathan\">@sirjonathan</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/lukecarbis\">@lukecarbis</a>, <a "
+"href=\"https://github.com/rob\">@rob</a>, <a href=\"https://github."
+"com/greguly\">greguly</a>"
+msgstr ""
+"Destekler  <a href=\"https://github.com/lukecarbis\">@lukecarbis</a>, <a "
+"href=\"https://github.com/rob\">@rob</a>, <a href=\"https://github."
+"com/greguly\">greguly</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/chacha\">@chacha</a>, <a href=\"https:"
+"//github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https://github."
+"com/Stayallive\">@Stayallive</a>, <a href=\"https://github.com/barryceelen\">"
+"@barryceelen</a>, Jonathan Desrosiers, <a href=\"https://github.com/marcin-"
+"lawrowski\">@marcin-lawrowski</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/chacha\">@chacha</a>, <a href=\"https:"
+"//github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https://github."
+"com/Stayallive\">@Stayallive</a>, <a href=\"https://github.com/barryceelen\">"
+"@barryceelen</a>, Jonathan Desrosiers, <a href=\"https://github.com/marcin-"
+"lawrowski\">@marcin-lawrowski</a>"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: The Customizer fix you've been waiting for! Stream now properly records "
+"changes made from the Customizer. (<a href=\"https://github."
+"com/xwp/stream/pull/827\">#827</a>)"
+msgstr ""
+"Düzeltme: Beklediğin Özelleştirici düzeltmesi! Stream artık "
+"Özelleştirici'den yapılan değişiklikleri düzgün bir şekilde kaydediyor. (<a "
+"href=\"https://github.com/xwp/stream/pull/827\">#827</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: In some instances, custom roles weren't being logged by Stream (<a "
+"href=\"https://github.com/xwp/stream/pull/824\">#824</a>)"
+msgstr ""
+"Düzeltme: Bazı durumlarda, özel roller Stream tarafından kaydedilmiyordu (<a "
+"href=\"https://github.com/xwp/stream/pull/824\">#824</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Gravity Forms error when adding a note (<a href=\"https://github."
+"com/xwp/stream/pull/811\">#811</a>)"
+msgstr ""
+"Düzeltme: Not eklerken Gravity Forms hatası (<a href=\"https://github."
+"com/xwp/stream/pull/811\">#811</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Minor styling updates. It's about attention to detail. (<a "
+"href=\"https://github.com/xwp/stream/pull/826\">#826</a>)"
+msgstr ""
+"Tweak: Küçük stil güncellemeleri. Detaylara dikkat etmekle ilgilidir. (<a "
+"href=\"https://github.com/xwp/stream/pull/826\">#826</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Better Javascript conflict prevention (<a href=\"https://github."
+"com/xwp/stream/pull/812\">#812</a>)"
+msgstr ""
+"Tweak: Javascript çakışmasını daha iyi önleme (<a href=\"https://github."
+"com/xwp/stream/pull/812\">#812</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: More mobile responsive list table (<a href=\"https://github."
+"com/xwp/stream/pull/810\">#810</a>)"
+msgstr ""
+"Tweak: Mobile daha fazla duyarlı liste tablosu (<a href=\"https://github."
+"com/xwp/stream/pull/810\">#810</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Export your Stream records as CSV or JSON. (<a href=\"https://github."
+"com/xwp/stream/pull/823\">#823</a>)"
+msgstr ""
+"Yeni: Stream kayıtlarınızı CSV veya JSON olarak dışa aktarın. (<a "
+"href=\"https://github.com/xwp/stream/pull/823\">#823</a>)"
+
+#. Found in changelog paragraph.
+msgid ""
+"Initial concept built using custom post type/taxonomies as the data model. "
+"Props <a href=\"https://github.com/shadyvb\">@shadyvb</a>"
+msgstr ""
+"İlk model, veri modeli olarak özel posta tipi / taksonomi kullanılarak "
+"oluşturulmuştur. Destekler <a href=\"https://github.com/shadyvb\">"
+"@shadyvb</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Second iteration build using custom tables data model. First public release. "
+"Props <a href=\"https://github.com/shadyvb\">@shadyvb</a>, <a href=\"https:"
+"//github.com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Özel tablolar veri modelini kullanarak ikinci yineleme yapısı. İlk "
+"kullanımına sunuldu. Destekler <a href=\"https://github.com/shadyvb\">"
+"@shadyvb</a>, <a href=\"https://github.com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Improved actions for Users context. Action for edited images in Media "
+"context. Bug fixes in Menus context. Props <a href=\"https://github."
+"com/shadyvb\">@shadyvb</a>, <a href=\"https://github.com/fjarrett\">"
+"@fjarrett</a>, <a href=\"https://github.com/gedex\">@akeda</a>"
+msgstr ""
+"Kullanıcılar bağlamında iyileştirilmiş eylemler. Medya bağlamında "
+"düzenlenmiş resimler için eylem. Menüler bağlamında hata düzeltmeleri. "
+"Destekler  <a href=\"https://github.com/shadyvb\">@shadyvb</a>, <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>, <a href=\"https://github."
+"com/gedex\">@akeda</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Improved support for pages and custom post types. Chosen for filter "
+"dropdowns. Pagination support in screen options. Bug fixes. Props <a "
+"href=\"https://github.com/shadyvb\">@shadyvb</a>, <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Sayfalar ve özel posta türleri için geliştirilmiş destek. Filtre açılırken "
+"seçilir. Ekran seçeneklerinde sayfalama desteği. Hata düzeltmeleri. "
+"Destekler <a href=\"https://github.com/shadyvb\">@shadyvb</a>, <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Require PHP 5.3 to activate plugin. Provide action links for records when "
+"applicable. Bug fixes. Props <a href=\"https://github.com/shadyvb\">"
+"@shadyvb</a>, <a href=\"https://github.com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Eklentiyi etkinleştirmek için PHP 5.3 gerektirir. Geçerli olduğunda kayıtlar "
+"için eylem bağlantıları sağlayın. Hata düzeltmeleri. Destekler <a "
+"href=\"https://github.com/shadyvb\">@shadyvb</a>, <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"UX improvements to manual DB purge. Cron event for user-defined TTL of "
+"records. Bug fixes. Props <a href=\"https://github.com/shadyvb\">@shadyvb</a>"
+", <a href=\"https://github.com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Manuel DB temizlemesi için UX geliştirmeleri. Kullanıcı tanımlı TTL "
+"kayıtlarının Cron olayı. Hata düzeltmeleri. Destekler <a href=\"https:"
+"//github.com/shadyvb\">@shadyvb</a>, <a href=\"https://github.com/fjarrett\">"
+"@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Added connectors for Taxonomies and Settings. Bug fixes. Props <a "
+"href=\"https://github.com/shadyvb\">@shadyvb</a>, <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Taksonomi ve Ayarlar için eklenmiş bağlayıcılar. Hata düzeltmeleri. "
+"Destekler <a href=\"https://github.com/shadyvb\">@shadyvb</a>, <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Hotfix to remove PHP 5.4-only syntax. Role Access option added to Settings. "
+"Props <a href=\"https://github.com/kucrut\">@kucrut</a>"
+msgstr ""
+"PHP 5.4 düzeltmesi sadece sözdizimini kaldırmak içindir. Rol Erişim seçeneği "
+"Ayarlar'a eklendi. Destekler <a href=\"https://github.com/kucrut\">"
+"@kucrut</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Bug fixes for the Installer connector. Props <a href=\"https://github."
+"com/shadyvb\">@shadyvb</a>"
+msgstr ""
+"Yükleyici bağlayıcı için hata düzeltmeleri. Destekler <a href=\"https:"
+"//github.com/shadyvb\">@shadyvb</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Bug fix for Role Access option. Props <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Rol Erişimi seçeneği için hata düzeltmesi. Destekler <a href=\"https:"
+"//github.com/fjarrett\"> @fjarrett </a> "
+
+#. Found in changelog paragraph.
+msgid ""
+"Ability to query Stream records in a private RSS feed. Bug fixes. Props <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>, <a href=\"https://github."
+"com/shadyvb\">@shadyvb</a>"
+msgstr ""
+"Özel bir RSS beslemesinde Stream kayıtlarını sorgulama yeteneği. Hata "
+"düzeltmeleri. Destekler <a href=\"https://github.com/fjarrett\"> @fjarrett "
+"</a>, <a href=\"https://github.com/shadyvb\"> @shadyvb </a>."
+
+#. Found in changelog paragraph.
+msgid ""
+"Setting to enable/disable private feeds functionality. Additional record "
+"logged when a user's role is changed. Bug fixes. Props <a href=\"https:"
+"//github.com/fjarrett\">@fjarrett</a>, <a href=\"https://github.com/kucrut\">"
+"@kucrut</a>, <a href=\"https://github.com/topher1kenobe\">@topher1kenobe</a>,"
+" <a href=\"https://github.com/justinsainton\">@justinsainton</a>"
+msgstr ""
+"Özel yayın işlevlerini etkinleştirmek / devre dışı bırakmak için ayarlama. "
+"Bir kullanıcının rolü değiştiğinde kaydedilen ek kayıt. Hata düzeltmeleri. "
+"Destekler <a href=\"https://github.com/fjarrett\">@fjarrett</a>, <a "
+"href=\"https://github.com/kucrut\">@kucrut</a>, <a href=\"https://github."
+"com/topher1kenobe\">@topher1kenobe</a>, <a href=\"https://github."
+"com/justinsainton\">@justinsainton</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Language packs for French and German. Option to uninstall database tables. "
+"Bug fixes. Props <a href=\"https://github.com/jonathanbardo\">"
+"@jonathanbardo</a>, <a href=\"https://github.com/fjarrett\">@fjarrett</a>, "
+"<a href=\"https://github.com/topher1kenobe\">@topher1kenobe</a>, <a "
+"href=\"https://github.com/pascal-klaeres\">@pascalklaeres</a>"
+msgstr ""
+"Fransızca ve Almanca dil paketleri. Veritabanı tablolarını kaldırma seçeneği."
+" Hata düzeltmeleri. Destekler <a href=\"https://github.com/jonathanbardo\">"
+"@jonathanbardo</a>, <a href=\"https://github.com/fjarrett\">@fjarrett</a>, "
+"<a href=\"https://github.com/topher1kenobe\">@topher1kenobe</a>, <a "
+"href=\"https://github.com/pascal-klaeres\">@pascalklaeres</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Added connector for Comments. Stream activity dashboard widget. UI "
+"enhancements. Bug fixes. Props <a href=\"https://github.com/jonathanbardo\">"
+"@jonathanbardo</a>, <a href=\"https://github.com/fjarrett\">@fjarrett</a>, "
+"<a href=\"https://github.com/shadyvb\">@shadyvb</a>, <a href=\"https:"
+"//github.com/topher1kenobe\">@topher1kenobe</a>"
+msgstr ""
+"Yorumlar için bağlayıcı eklendi. Stream etkinliği gösterge tablosu widget'ı. "
+"UI geliştirmeleri. Hata düzeltmeleri. Destekler <a href=\"https://github."
+"com/jonathanbardo\">@jonathanbardo</a>, <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>, <a href=\"https://github.com/shadyvb\">"
+"@shadyvb</a>, <a href=\"https://github.com/topher1kenobe\">@topher1kenobe</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Specify which roles should have their activity logged. Delete all options on "
+"uninstall. Bug fixes. Props <a href=\"https://github.com/jonathanbardo\">"
+"@jonathanbardo</a>, <a href=\"https://github.com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Hangi rollerin etkinliklerinin kaydedileceğini belirtin. Kaldırılan tüm "
+"seçenekleri silin. Hata düzeltmeleri. Destekler <a href=\"https://github."
+"com/jonathanbardo\">@jonathanbardo</a>, <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Added support for private feeds in JSON format. Flush rewrite rules "
+"automatically for feeds when enabled/disabled. Bug fixes. Props <a "
+"href=\"https://github.com/jonathanbardo\">@jonathanbardo</a>, <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"JSON formatında özel yayınlar için destek eklendi. Etkinleştirildiğinde / "
+"devre dışı bırakıldığında beslemeleri otomatik olarak yeniden yazdırın. Hata "
+"düzeltmeleri. Destekler <a href=\"https://github.com/jonathanbardo\">"
+"@jonathanbardo</a>, <a href=\"https://github.com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Replacing Chosen library with Select2. Bug fixes. Props <a href=\"https:"
+"//github.com/kucrut\">@kucrut</a>, <a href=\"https://github.com/shadyvb\">"
+"@shadyvb</a>, <a href=\"https://github.com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Seçilmiş kitaplığı Select2 ile değiştirme. Hata düzeltmeleri. Destekler <a "
+"href=\"https://github.com/kucrut\">@kucrut</a>, <a href=\"https://github."
+"com/shadyvb\">@shadyvb</a>, <a href=\"https://github.com/fjarrett\">"
+"@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"WordPress context added to Installer connector for core updates. Props <a "
+"href=\"https://github.com/shadyvb\">@shadyvb</a>"
+msgstr ""
+"Temel güncelleştirmeler için WordPress içeriği Yükleyici bağlayıcısına "
+"eklendi. Destekler <a href=\"https://github.com/shadyvb\">@shadyvb</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Use menu name as context in Menus connector. Warning if required DB tables "
+"are missing. Bug fixes. Props <a href=\"https://github.com/jonathanbardo\">"
+"@jonathanbardo</a>, <a href=\"https://github.com/fjarrett\">@fjarrett</a>, "
+"<a href=\"https://github.com/topher1kenobe\">@topher1kenobe</a>"
+msgstr ""
+"Menüler bağlayıcısında bağlam olarak menü adını kullanın. Gerekli DB "
+"tabloları eksikse Uyarır. Hata düzeltmeleri. Destekler <a href=\"https:"
+"//github.com/jonathanbardo\">@jonathanbardo</a>, <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>, <a href=\"https://github.com/topher1kenobe\">"
+"@topher1kenobe</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Plugin version available as a constant. Bug fixes. Props <a href=\"https:"
+"//github.com/jonathanbardo\">@jonathanbardo</a>, <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Eklenti sürümü sabit olarak kullanılabilir. Hata düzeltmeleri. Destekler <a "
+"href=\"https://github.com/jonathanbardo\">@jonathanbardo</a>, <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Support for live updates in the Stream. Bug fixes. Props <a href=\"https:"
+"//github.com/jonathanbardo\">@jonathanbardo</a>, <a href=\"https://github."
+"com/johnregan3\">@johnregan3</a>, <a href=\"https://github.com/fjarrett\">"
+"@fjarrett</a>"
+msgstr ""
+"Stream de canlı güncellemeler için destek. Hata düzeltmeleri. Destekler <a "
+"href=\"https://github.com/jonathanbardo\">@jonathanbardo</a>, <a "
+"href=\"https://github.com/johnregan3\">@johnregan3</a>, <a href=\"https:"
+"//github.com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Updated screenshot assets and descriptions. Props <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Güncellenmiş ekran öğeleri ve açıklamaları. Destekler  <a href=\"https:"
+"//github.com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Allow list table to be extensible. Hook added to prevent tables from being "
+"created, if desired. Props <a href=\"https://github.com/johnregan3\">"
+"@johnregan3</a>, <a href=\"https://github.com/fjarrett\">@fjarrett</a>, <a "
+"href=\"https://github.com/jonathanbardo\">@jonathanbardo</a>"
+msgstr ""
+"Liste tablosunun genişletilebilir olmasına izin ver. Kanca, istenirse "
+"tabloların oluşturulmasını önlemek için eklendi. Destekler <a href=\"https:"
+"//github.com/johnregan3\">@johnregan3</a>, <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>, <a href=\"https://github.com/jonathanbardo\">"
+"@jonathanbardo</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Require nonce for generating a new user feed key. Props <a href=\"https:"
+"//github.com/johnregan3\">@johnregan3</a>"
+msgstr ""
+"Yeni bir kullanıcı besleme anahtarı oluşturmayı gerektirmez. Destekler <a "
+"href=\"https://github.com/johnregan3\">@johnregan3</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Ensure the dashboard widget respects the Role Access setting. Props <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Gösterge paneli widget'ının Rol Erişimi ayarına uyduğundan emin olun. "
+"Destekler <a href=\"https://github.com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Language pack for Spanish. Bug fixes. Props <a href=\"https://github."
+"com/omniwired\">omniwired</a>, <a href=\"https://github.com/shadyvb\">"
+"@shadyvb</a>"
+msgstr ""
+"İspanyolca dil paketi. Hata düzeltmeleri. Destekler <a href=\"https://github."
+"com/omniwired\">omniwired</a>, <a href=\"https://github.com/shadyvb\">"
+"@shadyvb</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Language pack for Polish. Bug fixes. Props <a href=\"https://github."
+"com/powelski\">@powelski</a>, <a href=\"https://github.com/fjarrett\">"
+"@fjarrett</a>, <a href=\"https://github.com/johnregan3\">@johnregan3</a>, <a "
+"href=\"https://github.com/kucrut\">@kucrut</a>"
+msgstr ""
+"Lehçe için dil paketi. Hata düzeltmeleri. Destekler <a href=\"https://github."
+"com/powelski\">@powelski</a>, <a href=\"https://github.com/fjarrett\">"
+"@fjarrett</a>, <a href=\"https://github.com/johnregan3\">@johnregan3</a>, <a "
+"href=\"https://github.com/kucrut\">@kucrut</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Bug fix for live updates breaking columns when some are hidden via Screen "
+"Options. Props <a href=\"https://github.com/johnregan3\">@johnregan3</a>"
+msgstr ""
+"Ekran Seçenekleri üzerinde bazıları gizlendiğinde canlı güncellemelerin "
+"sütunlarının kırılması için hata düzeltmesi. Destekler <a href=\"https:"
+"//github.com/johnregan3\">@johnregan3</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Query improvements, default connector interface, hook added for general "
+"settings fields. Bug fixes. Props <a href=\"https://github.com/dero\">"
+"dero</a>, <a href=\"https://github.com/jonathanbardo\">@jonathanbardo</a>, "
+"<a href=\"https://github.com/shadyvb\">@shadyvb</a>, <a href=\"https:"
+"//github.com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Sorgu iyileştirmeleri, varsayılan bağlantı arayüzü, genel ayarlar alanları "
+"için kanca eklendi. Hata düzeltmeleri. Destekler <a href=\"https://github."
+"com/dero\">dero</a>, <a href=\"https://github.com/jonathanbardo\">"
+"@jonathanbardo</a>, <a href=\"https://github.com/shadyvb\">@shadyvb</a>, <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Code efficiency improvements when fetching admin area URLs. Props <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Yönetici alan URL'leri alınırken kod verimliliği iyileştirmeleri. Destekler "
+"<a href=\"https://github.com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Bug fix for sites using BuddyPress. Props <a href=\"https://github."
+"com/johnregan3\">@johnregan3</a>"
+msgstr ""
+"BuddyPress kullanan siteler için hata düzeltmesi. Destekler <a href=\"https:"
+"//github.com/johnregan3\">@johnregan3</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Several important bug fixes. Props <a href=\"https://github.com/shadyvb\">"
+"@shadyvb</a>"
+msgstr ""
+"Birkaç önemli hata düzeltmesi. Destekler <a href=\"https://github."
+"com/shadyvb\">@shadyvb</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Disable terms in dropdown filters for which records do not exist. Props <a "
+"href=\"https://github.com/johnregan3\">@johnregan3</a>"
+msgstr ""
+"Kayıtların bulunmadığı açılır filtrelerde şartları devre dışı bırakın. "
+"Destekler <a href=\"https://github.com/johnregan3\">@johnregan3</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Bug fix for list table notice on new installations. Props <a href=\"https:"
+"//github.com/shadyvb\">@shadyvb</a>"
+msgstr ""
+"Yeni kurulumlarda liste tablosu bildirimi için hata düzeltmesi. Destekler <a "
+"href=\"https://github.com/shadyvb\"> @shadyvb </a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Upgrade routine for IP column in DB. Serialized option parsing for Stream "
+"Settings records. Purge records immediately when TTL is set backwards in "
+"Stream Settings. Various bug fixes. Props <a href=\"https://github."
+"com/shadyvb\">@shadyvb</a>, <a href=\"https://github.com/powelski\">"
+"@powelski</a>, <a href=\"https://github.com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"DB IP sütun için rutin yükseltin. Stream Ayarlarının kayıtları için "
+"ayrıştırma seçeneği. Stream Ayarları'nda TTL geriye doğru ayarlandığında "
+"kayıtları derhal temizleyin. Çeşitli hata düzeltmeleri. Destekler <a "
+"href=\"https://github.com/shadyvb\">@shadyvb</a>, <a href=\"https://github."
+"com/powelski\">@powelski</a>, <a href=\"https://github.com/fjarrett\">"
+"@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Highlight changed settings field feature. DB upgrade routine for proper utf-"
+"8 charset. Various bug fixes. Props <a href=\"https://github.com/powelski\">"
+"@powelski</a>, <a href=\"https://github.com/johnregan3\">@johnregan3</a>, <a "
+"href=\"https://github.com/shadyvb\">@shadyvb</a>, <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Değiştirilen ayarların alan özelliğini vurgulayın. Uygun utf-8 karakter "
+"takımı için DB yükseltme rutini. Çeşitli hata düzeltmeleri. Destekler  <a "
+"href=\"https://github.com/powelski\">@powelski</a>, <a href=\"https://github."
+"com/johnregan3\">@johnregan3</a>, <a href=\"https://github.com/shadyvb\">"
+"@shadyvb</a>, <a href=\"https://github.com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Fixed a class scope bug <a href=\"https://wordpress."
+"org/support/topic/temporary-fatal-error-after-upgrade-113\">reported in the "
+"support forum</a> that was causing a fatal error on some installs. Props <a "
+"href=\"https://github.com/shadyvb\">@shadyvb</a>"
+msgstr ""
+"Sınıf kapsamı hatası düzeltildi <a href=\"https://wordpress."
+"org/support/topic/temporary-fatal-error-after-upgrade-113\">destek forumunda "
+"bildirildi</a>bazı yüklemelerde önemli bir hataya neden olmuştu. Destekler "
+"<a href=\"https://github.com/shadyvb\">@shadyvb</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Sortable columns bug fix on the records screen. Props <a href=\"https:"
+"//github.com/powelski\">@powelski</a>, <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Kayıt ekranında sorunlu sütunlar hatası düzeltildi. Destekler <a "
+"href=\"https://github.com/powelski\">@powelski</a>, <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Upgrade routine for IPv6 support. Persist tab selection after saving Stream "
+"Settings. Props <a href=\"https://github.com/shadyvb\">@shadyvb</a>, <a "
+"href=\"https://github.com/dero\">dero</a>"
+msgstr ""
+"IPv6 desteği için rutini yükseltin. Stream Ayarları'nı kaydettikten sonra "
+"sekme seçimine devam edin. Destekler <a href=\"https://github.com/shadyvb\">"
+"@shadyvb</a>, <a href=\"https://github.com/dero\">dero</a>"
+
+#. Found in changelog paragraph.
+msgid "Bug fixes. Props <a href=\"https://github.com/shadyvb\">@shadyvb</a>"
+msgstr ""
+"Hata düzeltmeleri. Destekler  <a href=\"https://github.com/shadyvb\">"
+"@shadyvb</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Load authors filter using AJAX if there are more than 50. Props <a "
+"href=\"https://github.com/powelski\">@powelski</a>"
+msgstr ""
+"50'den fazla varsa AJAX kullanarak yazarları yükleyin. Destekler <a "
+"href=\"https://github.com/powelski\">@powelski</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Awesome datepicker styles. Performance optimizations. Bug fixes. Props <a "
+"href=\"https://github.com/johnregan3\">@johnregan3</a>, <a href=\"https:"
+"//github.com/shadyvb\">@shadyvb</a>, <a href=\"https://github.com/fjarrett\">"
+"@fjarrett</a>, <a href=\"https://github.com/jonathanbardo\">"
+"@jonathanbardo</a>"
+msgstr ""
+"Müthiş Tarih Seçici Stiller. Performans optimizasyonları. Hata düzeltmeleri. "
+"Destekler <a href=\"https://github.com/johnregan3\">@johnregan3</a>, <a "
+"href=\"https://github.com/shadyvb\">@shadyvb</a>, <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>, <a href=\"https://github.com/jonathanbardo\">"
+"@jonathanbardo</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Translation updates. Language packs for pt_BR and id_ID. Bug fixes. Props <a "
+"href=\"https://github.com/kucrut\">@kucrut</a>, <a href=\"https://github."
+"com/shadyvb\">@shadyvb</a>, <a href=\"https://github.com/bordoni\">"
+"@bordoni</a>, <a href=\"https://github.com/powelski\">@powelski</a>, <a "
+"href=\"https://github.com/omniwired\">omniwired</a>, <a href=\"https:"
+"//github.com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Çeviri güncellemeleri. Pt_BR ve id_ID için dil paketleri. Hata düzeltmeleri. "
+"Destekler <a href=\"https://github.com/kucrut\">@kucrut</a>, <a href=\"https:"
+"//github.com/shadyvb\">@shadyvb</a>, <a href=\"https://github.com/bordoni\">"
+"@bordoni</a>, <a href=\"https://github.com/powelski\">@powelski</a>, <a "
+"href=\"https://github.com/omniwired\">omniwired</a>, <a href=\"https:"
+"//github.com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Prevent records of disabled connectors from appearing in the Stream. Bug "
+"fixes. Props <a href=\"https://github.com/kucrut\">@kucrut</a>, <a "
+"href=\"https://github.com/johnregan3\">@johnregan3</a>"
+msgstr ""
+"Engelli bağlayıcıların kayıtlarının Stream de görünmesini engelleyin. Hata "
+"düzeltmeleri. Destekler <a href=\"https://github.com/kucrut\">@kucrut</a>, "
+"<a href=\"https://github.com/johnregan3\">@johnregan3</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Replacement function for filter_input family to avoid PHP bug. Filter added "
+"to main Stream query. Bug fixes. Props <a href=\"https://github."
+"com/shadyvb\">@shadyvb</a>, <a href=\"https://github.com/powelski\">"
+"@powelski</a>, <a href=\"https://github.com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"PHP hatasını önlemek için filter_input ailesi için değiştirme işlevi. Filtre,"
+" ana Akış sorgusuna eklendi. Hata düzeltmeleri. Destekler <a href=\"https:"
+"//github.com/shadyvb\">@shadyvb</a>, <a href=\"https://github.com/powelski\">"
+"@powelski</a>, <a href=\"https://github.com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Use post type names as context in Comments connector. German translation "
+"update. Bug fixes. Props <a href=\"https://github.com/powelski\">"
+"@powelski</a>, <a href=\"https://github.com/kucrut\">@kucrut</a>, <a "
+"href=\"https://github.com/pascal-klaeres\">@pascalklaeres</a>, <a "
+"href=\"https://github.com/shadyvb\">@shadyvb</a>, <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Yorumlar bağlayıcısında yazı tipi adlarını bağlam olarak kullan. Almanca "
+"çeviri güncellemesi. Hata düzeltmeleri. Destekler <a href=\"https://github."
+"com/powelski\">@powelski</a>, <a href=\"https://github.com/kucrut\">"
+"@kucrut</a>, <a href=\"https://github.com/pascal-klaeres\">@pascalklaeres</a>"
+", <a href=\"https://github.com/shadyvb\">@shadyvb</a>, <a href=\"https:"
+"//github.com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Use sidebar area names as context in Widgets connector. Bug fixes. Props <a "
+"href=\"https://github.com/desaiuditd\">@desaiuditd</a>, <a href=\"https:"
+"//github.com/shadyvb\">@shadyvb</a>, <a href=\"https://github.com/fjarrett\">"
+"@fjarrett</a>, <a href=\"https://github.com/bordoni\">@bordoni</a>"
+msgstr ""
+"Widget bağlayıcısında bağlam olarak kenar çubuğu alan adlarını kullanın. "
+"Hata düzeltmeleri. Destekler <a href=\"https://github.com/desaiuditd\">"
+"@desaiuditd</a>, <a href=\"https://github.com/shadyvb\">@shadyvb</a>, <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>, <a href=\"https://github."
+"com/bordoni\">@bordoni</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Improved context names in Users connector. Props <a href=\"https://github."
+"com/powelski\">@powelski</a>"
+msgstr ""
+"Kullanıcılar bağlayıcısında geliştirilmiş içerik adları. Destekler <a "
+"href=\"https://github.com/powelski\">@powelski</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Pagination added to Stream Activity dashboard widget. Bug fixes. Props <a "
+"href=\"https://github.com/chacha\">@chacha</a>, <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Sayfalama, Stream Etkinliği kontrol paneli widget'ına eklendi. Hata "
+"düzeltmeleri. Destekler <a href=\"https://github.com/chacha\">@chacha</a>, "
+"<a href=\"https://github.com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Use attachment type as context in Media connector. Bug fixes. Props <a "
+"href=\"https://github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https:"
+"//github.com/powelski\">@powelski</a>, <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Medya bağlayıcısında eki bağlam olarak kullanın. Hata düzeltmeleri. "
+"Destekler <a href=\"https://github.com/lukecarbis\">@lukecarbis</a>, <a "
+"href=\"https://github.com/powelski\">@powelski</a>, <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Fixes bug that caused media uploads to fail on new posts. Props <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Medya yüklemelerinin yeni yayınlarda başarısız olmasına neden olan hata "
+"düzeltildi. Destekler <a href=\"https://github.com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/powelski\">@powelski</a>, <a href=\"https:"
+"//github.com/faishal\">@faishal</a>, <a href=\"https://github.com/fjarrett\">"
+"@fjarrett</a>, <a href=\"https://github.com/desaiuditd\">@desaiuditd</a>, <a "
+"href=\"https://github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https:"
+"//github.com/shadyvb\">@shadyvb</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/powelski\">@powelski</a>, <a "
+"href=\"https://github.com/faishal\">@faishal</a>, <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>, <a href=\"https://github.com/desaiuditd\">"
+"@desaiuditd</a>, <a href=\"https://github.com/lukecarbis\">@lukecarbis</a>, "
+"<a href=\"https://github.com/shadyvb\">@shadyvb</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/powelski\">@powelski</a>, <a href=\"https:"
+"//github.com/fjarrett\">@fjarrett</a>, <a href=\"https://github."
+"com/jonathanbardo\">@jonathanbardo</a>, <a href=\"https://github."
+"com/faishal\">@faishal</a>, <a href=\"https://github.com/desaiuditd\">"
+"@desaiuditd</a>, <a href=\"https://github.com/lukecarbis\">@lukecarbis</a>, "
+"<a href=\"https://github.com/johnregan3\">@johnregan3</a>, <a href=\"https:"
+"//github.com/Powdered-Toast-Man\">@Powdered-Toast-Man</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/powelski\">@powelski</a>, <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>, <a href=\"https://github."
+"com/jonathanbardo\">@jonathanbardo</a>, <a href=\"https://github."
+"com/faishal\">@faishal</a>, <a href=\"https://github.com/desaiuditd\">"
+"@desaiuditd</a>, <a href=\"https://github.com/lukecarbis\">@lukecarbis</a>, "
+"<a href=\"https://github.com/johnregan3\">@johnregan3</a>, <a href=\"https:"
+"//github.com/Powdered-Toast-Man\">@Powdered-Toast-Man</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/fjarrett\">@fjarrett</a>, <a href=\"https:"
+"//github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https://github."
+"com/c3mdigital\">@c3mdigital</a>, <a href=\"https://github.com/westonruter\">"
+"@westonruter</a>, <a href=\"https://github.com/shadyvb\">@shadyvb</a>, <a "
+"href=\"https://github.com/powelski\">@powelski</a>, <a href=\"https://github."
+"com/johnregan3\">@johnregan3</a>, <a href=\"https://github."
+"com/jonathanbardo\">@jonathanbardo</a>, <a href=\"https://github."
+"com/desaiuditd\">@desaiuditd</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/fjarrett\">@fjarrett</a>, <a "
+"href=\"https://github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https:"
+"//github.com/c3mdigital\">@c3mdigital</a>, <a href=\"https://github."
+"com/westonruter\">@westonruter</a>, <a href=\"https://github.com/shadyvb\">"
+"@shadyvb</a>, <a href=\"https://github.com/powelski\">@powelski</a>, <a "
+"href=\"https://github.com/johnregan3\">@johnregan3</a>, <a href=\"https:"
+"//github.com/jonathanbardo\">@jonathanbardo</a>, <a href=\"https://github."
+"com/desaiuditd\">@desaiuditd</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/westonruter\">@westonruter</a>, <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/westonruter\">@westonruter</a>, <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/jonathanbardo\">@jonathanbardo</a>, <a "
+"href=\"https://github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https:"
+"//github.com/westonruter\">@westonruter</a>, <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/jonathanbardo\">@jonathanbardo</a>, "
+"<a href=\"https://github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https:"
+"//github.com/westonruter\">@westonruter</a>, <a href=\"https://github."
+"com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/jonathanbardo\">@jonathanbardo</a>, <a "
+"href=\"https://github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https:"
+"//github.com/shadyvb\">@shadyvb</a>, <a href=\"https://github."
+"com/c3mdigital\">@c3mdigital</a>, <a href=\"https://github.com/fjarrett\">"
+"@fjarrett</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/jonathanbardo\">@jonathanbardo</a>, "
+"<a href=\"https://github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https:"
+"//github.com/shadyvb\">@shadyvb</a>, <a href=\"https://github."
+"com/c3mdigital\">@c3mdigital</a>, <a href=\"https://github.com/fjarrett\">"
+"@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/westonruter\">@westonruter</a>, <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>, <a href=\"https://github."
+"com/japh\">@japh</a>, <a href=\"https://github.com/lukecarbis\">"
+"@lukecarbis</a>, <a href=\"https://github.com/jonathanbardo\">"
+"@jonathanbardo</a>, <a href=\"https://github.com/bordoni\">@bordoni</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/westonruter\">@westonruter</a>, <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>, <a href=\"https://github."
+"com/japh\">@japh</a>, <a href=\"https://github.com/lukecarbis\">"
+"@lukecarbis</a>, <a href=\"https://github.com/jonathanbardo\">"
+"@jonathanbardo</a>, <a href=\"https://github.com/bordoni\">@bordoni</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/fjarrett\">@fjarrett</a>, <a href=\"https:"
+"//github.com/shadyvb\">@shadyvb</a>, <a href=\"https://github."
+"com/lukecarbis\">@lukecarbis</a>, <a href=\"https://github.com/japh\">"
+"@japh</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/fjarrett\">@fjarrett</a>, <a "
+"href=\"https://github.com/shadyvb\">@shadyvb</a>, <a href=\"https://github."
+"com/lukecarbis\">@lukecarbis</a>, <a href=\"https://github.com/japh\">"
+"@japh</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/fjarrett\">@fjarrett</a>, <a href=\"https:"
+"//github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https://github."
+"com/shadyvb\">@shadyvb</a>, <a href=\"https://github.com/barryceelen\">"
+"@barryceelen</a>, <a href=\"https://github.com/japh\">@japh</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/fjarrett\">@fjarrett</a>, <a "
+"href=\"https://github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https:"
+"//github.com/shadyvb\">@shadyvb</a>, <a href=\"https://github."
+"com/barryceelen\">@barryceelen</a>, <a href=\"https://github.com/japh\">"
+"@japh</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/lukecarbis\">@lukecarbis</a>, <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>, <a href=\"https://github."
+"com/bordoni\">@bordoni</a>, <a href=\"https://github.com/shadyvb\">"
+"@shadyvb</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/lukecarbis\">@lukecarbis</a>, <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>, <a href=\"https://github."
+"com/bordoni\">@bordoni</a>, <a href=\"https://github.com/shadyvb\">"
+"@shadyvb</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/westonruter\">@westonruter</a>, <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>, <a href=\"https://github."
+"com/shadyvb\">@shadyvb</a>, <a href=\"https://github.com/lukecarbis\">"
+"@lukecarbis</a>, <a href=\"https://github.com/chacha\">@chacha</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/westonruter\">@westonruter</a>, <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>, <a href=\"https://github."
+"com/shadyvb\">@shadyvb</a>, <a href=\"https://github.com/lukecarbis\">"
+"@lukecarbis</a>, <a href=\"https://github.com/chacha\">@chacha</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/shadyvb\">@shadyvb</a>, <a href=\"https:"
+"//github.com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/shadyvb\">@shadyvb</a>, <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/fjarrett\">@fjarrett</a>, <a href=\"https:"
+"//github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https://github."
+"com/shadyvb\">@shadyvb</a>, <a href=\"https://github.com/chacha\">@chacha</a>"
+", <a href=\"https://github.com/jonathanbardo\">@jonathanbardo</a>, <a "
+"href=\"https://github.com/bordoni\">@bordoni</a>, <a href=\"https://github."
+"com/dero\">@dero</a>, <a href=\"https://github.com/jeffmatson\">"
+"@jeffmatson</a>, <a href=\"https://github.com/stipsan\">@stipsan</a>, <a "
+"href=\"https://github.com/c3mdigital\">@c3mdigital</a>, <a href=\"https:"
+"//github.com/adamsilverstein\">@adamsilverstein</a>, <a href=\"https:"
+"//github.com/westonruter\">@westonruter</a>, <a href=\"https://github."
+"com/japh\">@japh</a>, <a href=\"https://github.com/solace\">@solace</a>, <a "
+"href=\"https://github.com/johnbillion\">@johnbillion</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/fjarrett\">@fjarrett</a>, <a "
+"href=\"https://github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https:"
+"//github.com/shadyvb\">@shadyvb</a>, <a href=\"https://github.com/chacha\">"
+"@chacha</a>, <a href=\"https://github.com/jonathanbardo\">@jonathanbardo</a>,"
+" <a href=\"https://github.com/bordoni\">@bordoni</a>, <a href=\"https:"
+"//github.com/dero\">@dero</a>, <a href=\"https://github.com/jeffmatson\">"
+"@jeffmatson</a>, <a href=\"https://github.com/stipsan\">@stipsan</a>, <a "
+"href=\"https://github.com/c3mdigital\">@c3mdigital</a>, <a href=\"https:"
+"//github.com/adamsilverstein\">@adamsilverstein</a>, <a href=\"https:"
+"//github.com/westonruter\">@westonruter</a>, <a href=\"https://github."
+"com/japh\">@japh</a>, <a href=\"https://github.com/solace\">@solace</a>, <a "
+"href=\"https://github.com/johnbillion\">@johnbillion</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"<strong>NOTE:</strong> Multisite view of all activity records in the Network "
+"Admin has been removed in this release. If you require this feature, please "
+"do not update Stream until version 2.1.0 is released."
+msgstr ""
+"<strong> NOT:</strong> Ağ Yöneticisi'ndeki tüm etkinlik kayıtlarının çok "
+"sayfalı görünümü bu sürümde kaldırılmıştır. Bu özelliğe ihtiyacınız varsa, "
+"lütfen 2.1.0 sürümü yayınlanana kadar Stream'i güncellemeyin."
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/lukecarbis\">@lukecarbis</a>, <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/lukecarbis\">@lukecarbis</a>, <a "
+"href=\"https://github.com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/fjarrett\">@fjarrett</a>, <a href=\"https:"
+"//github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https://github."
+"com/shadyvb\">@shadyvb</a>, <a href=\"https://github.com/jonathanbardo\">"
+"@jonathanbardo</a>, <a href=\"https://github.com/westonruter\">"
+"@westonruter</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/fjarrett\">@fjarrett</a>, <a "
+"href=\"https://github.com/lukecarbis\">@lukecarbis</a>, <a href=\"https:"
+"//github.com/shadyvb\">@shadyvb</a>, <a href=\"https://github."
+"com/jonathanbardo\">@jonathanbardo</a>, <a href=\"https://github."
+"com/westonruter\">@westonruter</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/fjarrett\">@fjarrett</a>, <a href=\"https:"
+"//github.com/szepeviktor\">@szepeviktor</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/fjarrett\">@fjarrett</a>, <a "
+"href=\"https://github.com/szepeviktor\">@szepeviktor</a>"
+
+#. Found in changelog paragraph.
+msgid "Props <a href=\"https://github.com/fjarrett\">@fjarrett</a>"
+msgstr "Destekler <a href=\"https://github.com/fjarrett\">@fjarrett</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/fjarrett\">@fjarrett</a>, <a href=\"https:"
+"//github.com/lukecarbis\">@lukecarbis</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/fjarrett\">@fjarrett</a>, <a "
+"href=\"https://github.com/lukecarbis\">@lukecarbis</a>"
+
+#. Found in changelog paragraph.
+msgid ""
+"Props <a href=\"https://github.com/lukecarbis\">@lukecarbis</a>, <a "
+"href=\"https://github.com/johnbillion\">@johnbillion</a>, <a href=\"https:"
+"//github.com/rob\">@rob</a>"
+msgstr ""
+"Destekler <a href=\"https://github.com/lukecarbis\">@lukecarbis</a>, <a "
+"href=\"https://github.com/johnbillion\">@johnbillion</a>, <a href=\"https:"
+"//github.com/rob\">@rob</a>"
+
+#. Found in changelog paragraph.
+msgid "Props <a href=\"https://github.com/lukecarbis\">@lukecarbis</a>"
+msgstr "Destekler <a href=\"https://github.com/lukecarbis\">@lukecarbis</a>"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Superfluous auto-draft posts are now prevented from being logged (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/293\">#293</a>)"
+msgstr ""
+"Düzeltme: Gereksiz otomatik taslak yayınların günlüğe kaydedilmesi "
+"engellendi (<a href=\"https://github.com/x-team/wp-stream/issues/293\">"
+"#293</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Widget sorting is now being tracked properly as well as Inactive "
+"widgets (<a href=\"https://github.com/x-team/wp-stream/issues/283\">#283</a>)"
+msgstr ""
+"Düzeltme: Widget sıralama şimdi İnaktif widgetın yanı sıra düzgün izleniyor "
+"(<a href=\"https://github.com/x-team/wp-stream/issues/283\">#283</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Fallback to the term slug if a label does not exist in list-table (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/214\">#214</a>)"
+msgstr ""
+"Düzeltme: Liste tablosunda bir etiket yoksa slug teriminin geri dönüşü (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/214\">#214</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Live updates are enabled by default for new installs (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/312\">#312</a>)"
+msgstr ""
+"Tweak: Yeni yüklemeler için canlı güncellemeler varsayılan olarak etkindir "
+"(<a href=\"https://github.com/x-team/wp-stream/issues/312\">#312</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: User avatars now displayed in Authors dropdown filter (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/311\">#311</a>)"
+msgstr ""
+"Tweak: Kullanıcı avatarları artık Yazarlar açılır filtresinde görüntüleniyor "
+"(<a href=\"https://github.com/x-team/wp-stream/issues/311\">#311</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Action links are now available for Stream Settings records (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/305\">#305</a>)"
+msgstr ""
+"Tweak: Stream Ayarlarının kayıtları için artık eylem bağlantıları var (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/305\">#305</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Predefined date intervals now available when filtering records (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/320\">#320</a>)"
+msgstr ""
+"Yeni: Kayıt filtrelendiğinde önceki tarih aralıkları mevcut (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/320\">#320</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Now logging Custom Background and Custom Header changes (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/309\">#309</a>)"
+msgstr ""
+"Yeni: Şimdi Özel Arkaplan ve Özel Başlık değişiklikleri kaydediliyor (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/309\">#309</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Exclude tab in Settings to prevent specific types of activity from "
+"being tracked (<a href=\"https://github.com/x-team/wp-stream/issues/251\">"
+"#251</a>)"
+msgstr ""
+"Yeni: Belirli etkinlik türlerinin izlenmesini önlemek için Ayarlar sekmesini "
+"hariç tutun (<a href=\"https://github.com/x-team/wp-stream/issues/251\">"
+"#251</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Small CSS bug in jQuery UI datepicker skins (<a href=\"https://github."
+"com/x-team/wp-stream/commit/04c80afa99486086612be9f6ad83148dfbbe533a\">"
+"04c80af</a>)"
+msgstr ""
+"Düzeltme: jQuery UI tarih seçici skin'lerinde küçük CSS hatası  (<a "
+"href=\"https://github.com/x-team/wp-"
+"stream/commit/04c80afa99486086612be9f6ad83148dfbbe533a\">04c80af</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Record TTL purge not functioning correctly (<a href=\"https://github."
+"com/x-team/wp-stream/issues/371\">#371</a>)"
+msgstr ""
+"Düzeltme: TTL temizlemesi doğru çalışmıyor (<a href=\"https://github.com/x-"
+"team/wp-stream/issues/371\">#371</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Invalid argument warning thrown on fresh installations of WordPress (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/358\">#358</a>)"
+msgstr ""
+"Düzeltme: WordPress'in yeni yüklemelerinde geçersiz argüman uyarısı atıldı "
+"(<a href=\"https://github.com/x-team/wp-stream/issues/358\">#358</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: wpdb::prepare() notice appearing in WordPress 3.9 (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/354\">#354</a>)"
+msgstr ""
+"Düzeltme: WordPress 3.9'da görünen wpdb :: prepare () bildirimi (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/354\">#354</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Predefined date range intervals not honoring the site timezone setting "
+"(<a href=\"https://github.com/x-team/wp-stream/issues/353\">#353</a>)"
+msgstr ""
+"Düzeltme: Site saat dilimi ayarına uymayan önceden tanımlanmış tarih aralığı "
+"aralıkları (<a href=\"https://github.com/x-team/wp-stream/issues/353\">"
+"#353</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: PHP 5.3.3 compatibility issue with filter constant (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/351\">#351</a>)"
+msgstr ""
+"Düzeltme: Filtre sabitiyle PHP 5.3.3 uyumluluk sorunu (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/351\">#351</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Reset Stream Database link not clearing everything in all cases (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/347\">#347</a>)"
+msgstr ""
+"Düzeltme: Tüm durumlarda her şeyi temizlemeyen Stream Veri Tabanı "
+"bağlantısını sıfırla (<a href=\"https://github.com/x-team/wp-"
+"stream/issues/347\">#347</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Autocomplete not working correctly in Exclude IP Addresses settings "
+"field (<a href=\"https://github.com/x-team/wp-stream/issues/335\">#335</a>)"
+msgstr ""
+"Düzeltme: Otomatik tamamlama düzgün çalışmıyor IP Adresi ayarları alanını "
+"hariç tut (<a href=\"https://github.com/x-team/wp-stream/issues/335\">"
+"#335</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Widget updated summary message improvement (<a href=\"https://github."
+"com/x-team/wp-stream/commit/88189761d4a8836038e8d9ec348096a0aab3072d\">"
+"8818976</a>)"
+msgstr ""
+"Tweak: Widget güncellenmiş özet mesajı iyileştirmesi (<a href=\"https:"
+"//github.com/x-team/wp-"
+"stream/commit/88189761d4a8836038e8d9ec348096a0aab3072d\">8818976</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: ID column is now hidden by default in Screen Options (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/348\">#348</a>)"
+msgstr ""
+"Tweak: Kimlik Sütunu artık Ekran Seçeneklerinde varsayılan olarak gizli (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/348\">#348</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Now showing user Gravatars in Exclude Authors &amp; Roles settings "
+"field (<a href=\"https://github.com/x-team/wp-stream/issues/333\">#333</a>)"
+msgstr ""
+"Tweak: Yazarlar ve Roller Ayarlarını dışarıda bırakarak kullanıcı "
+"Gravatars'ı gösteriliyor (<a href=\"https://github.com/x-team/wp-"
+"stream/issues/333\">#333</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Future dates now disabled in Start date field datepicker (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/334\">#334</a>)"
+msgstr ""
+"Tweak: Gelecek tarihler şimdi Başlangıç tarihi alanı tarih seçicisinde devre "
+"dışı bırakıldı (<a href=\"https://github.com/x-team/wp-stream/issues/334\">"
+"#334</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Hover roles to reveal a tooltip with the number of authors assigned to "
+"that role (<a href=\"https://github.com/x-team/wp-stream/issues/377\">"
+"#377</a>)"
+msgstr ""
+"Yeni: Bir araç ipucunu, o role atanmış yazarların sayısıyla ortaya çıkarmak "
+"için fareyle üzerine gelin (<a href=\"https://github.com/x-team/wp-"
+"stream/issues/377\">#377</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Hover authors to reveal a tooltip with helpful user meta (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/338\">#338</a>)"
+msgstr ""
+"Yeni: Yazarların yardımcı kullanıcı metalarını bir araç ipucuyla ortaya "
+"çıkarmasını sağlayın (<a href=\"https://github.com/x-team/wp-"
+"stream/issues/338\">#338</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Stream Activity dashboard widget now supports live updates (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/356\">#356</a>)"
+msgstr ""
+"Yeni: Stream Etkinliği kontrol paneli widget'ı artık canlı güncellemeleri "
+"destekliyor (<a href=\"https://github.com/x-team/wp-stream/issues/356\">"
+"#356</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Visibility option in Exclude settings to hide past records from view "
+"(<a href=\"https://github.com/x-team/wp-stream/issues/355\">#355</a>)"
+msgstr ""
+"Yeni: Geçmişteki kayıtları görünümden gizlemek için ayarları hariç tut "
+"seçeneğinde Görünürlük seçeneği (<a href=\"https://github.com/x-team/wp-"
+"stream/issues/355\">#355</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Additional screen options to show/hide only the filters you care about "
+"(<a href=\"https://github.com/x-team/wp-stream/issues/329\">#329</a>)"
+msgstr ""
+"Yeni: Yalnızca önem verdiğiniz filtreleri göstermek / gizlemek için ek ekran "
+"seçenekleri <a href=\"https://github.com/x-team/wp-stream/issues/329\">"
+"#329</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Theme Editor connector for tracking changes made to theme files (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/313\">#313</a>)"
+msgstr ""
+"Yeni: Tema dosyalarında yapılan değişiklikleri takip etmek için Tema "
+"Düzenleyici bağlayıcısı (<a href=\"https://github.com/x-team/wp-"
+"stream/issues/313\">#313</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Stream Feeds Key not being automatically generated (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/420\">#420</a>)"
+msgstr ""
+"Düzeltme: Stream Besleme Anahtarları otomatik olarak oluşturulmuyor (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/420\">#420</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: NextGen compability issue (<a href=\"https://github.com/x-team/wp-"
+"stream/issues/416\">#416</a>)"
+msgstr ""
+"Düzeltme: NextGen uyumluluk sorunu (<a href=\"https://github.com/x-team/wp-"
+"stream/issues/416\">#416</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: TTL purge schedule is never setup (<a href=\"https://github.com/x-"
+"team/wp-stream/issues/412\">#412</a>)"
+msgstr ""
+"Düzeltme: TTL temizleme programı hiç kurulmadı (<a href=\"https://github."
+"com/x-team/wp-stream/issues/412\">#412</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Uninstall confirmation message doesn't display (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/411\">#411</a>)"
+msgstr ""
+"Düzeltme: Kaldırma onay mesajı görüntülenmiyor (<a href=\"https://github."
+"com/x-team/wp-stream/issues/411\">#411</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Non-Administrator users seeing errors in Settings records (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/406\">#406</a>)"
+msgstr ""
+"Düzeltme: Yönetici olmayan kayıtları ayarlarındaki hataları gören "
+"kullanıcılar (<a href=\"https://github.com/x-team/wp-stream/issues/406\">"
+"#406</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: IP validator not respecting zero (<a href=\"https://github.com/x-"
+"team/wp-stream/issues/394\">#394</a>)"
+msgstr ""
+"Düzeltme: IP doğrulayıcı sıfıra uymuyor (<a href=\"https://github.com/x-"
+"team/wp-stream/issues/394\">#394</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Live updates screen option checkbox not persisting (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/392\">#392</a>)"
+msgstr ""
+"Düzeltme: Canlı güncellemeler ekran seçeneği onay kutusu sürdürülebilir "
+"değil (<a href=\"https://github.com/x-team/wp-stream/issues/392\">#392</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Live updates remove last item in activity table (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/386\">#386</a>)"
+msgstr ""
+"Düzeltme: Canlı güncellemeler etkinlik tablosundaki son öğeyi kaldır (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/386\">#386</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Custom capability conflict with W3 Total Cache plugin (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/296\">#296</a>)"
+msgstr ""
+"Düzeltme: W3 Toplam Önbellek eklentisi ile özel yetenek çakışması (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/296\">#296</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Fix AJAX loading of authors in dropdown filters (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/49\">#49</a>)"
+msgstr ""
+"Düzeltme: Açılan filtrelerde yazarların AJAX yüklemesini düzeltme (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/49\">#49</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: More compact search filters for smaller screens (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/403\">#403</a>)"
+msgstr ""
+"Tweak: Daha küçük ekranlar için daha kompakt arama filtreleri (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/403\">#403</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Save additional author meta for better records (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/389\">#389</a>)"
+msgstr ""
+"Tweak: Daha iyi kayıtlar için ek yazar metasını kaydet (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/389\">#389</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Use icon link instead of clicking the summary to filter by object ID "
+"(<a href=\"https://github.com/x-team/wp-stream/issues/380\">#380</a>)"
+msgstr ""
+"Tweak: Nesne kimliğine göre filtrelemek için özete tıklamak yerine simge "
+"bağlantısı kullanın (<a href=\"https://github.com/x-team/wp-"
+"stream/issues/380\">#380</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Deprecate functions and hooks in favor of consistent naming "
+"conventions (<a href=\"https://github.com/x-team/wp-stream/issues/267\">"
+"#267</a>)"
+msgstr ""
+"Onaysız fonksiyonlar ve tutarlı adlandırma kuralları lehine kancalar  (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/267\">#267</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: WP-CLI compatibility, Stream now tracks changes made via WP-CLI (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/423\">#423</a>)"
+msgstr ""
+"Yeni: WP-CLI uyumluluğu, Stream artık WP-CLI ile yapılan değişiklikleri "
+"izliyor (<a href=\"https://github.com/x-team/wp-stream/issues/423\">#423</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Separate API for handling DB update routines (<a href=\"https://github."
+"com/x-team/wp-stream/issues/379\">#379</a>)"
+msgstr ""
+"Yeni: DB güncelleme programlarını işlemek için ayrı API (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/379\">#379</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Multisite is now fully supported, activate Stream network-wide (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/65\">#65</a>)"
+msgstr ""
+"Yeni: Çoklu site artık tam olarak destekleniyor, Stream network ağını "
+"genişletin (<a href=\"https://github.com/x-team/wp-stream/issues/65\">#65</a>"
+")"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: WP-CLI incorrectly referenced in records (<a href=\"https://github."
+"com/x-team/wp-stream/issues/441\">#441</a>)"
+msgstr ""
+"Düzeltme: WP-CLI kayıtlarında yanlış başvuruda bulunuldu (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/441\">#441</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Scripts and styles not using Stream version number (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/440\">#440</a>)"
+msgstr ""
+"Düzeltme: Stream sürüm numarası kullanmayan komut dosyaları ve stiller (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/440\">#440</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Update routine hotfix that was causing records to disappear (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/447\">#447</a>)"
+msgstr ""
+"Düzeltme: Kayıtların kaybolmasına neden olan rutin düzeltmeyi güncelleştirin "
+"(<a href=\"https://github.com/x-team/wp-stream/issues/447\">#447</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Update Database button redirecting to previous screen (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/443\">#443</a>)"
+msgstr ""
+"Düzeltme: Önceki ekrana yönlendiren Veritabanı butonunu güncelle (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/443\">#443</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Introducing the Stream Extensions screen! (<a href=\"https://github."
+"com/x-team/wp-stream/issues/396\">#396</a>)"
+msgstr ""
+"Yeni: Stream Uzantıları ekranına giriş! (<a href=\"https://github.com/x-"
+"team/wp-stream/issues/396\">#396</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Undefined notice in admin.php (<a href=\"https://github.com/x-team/wp-"
+"stream/issues/468\">#468</a>)"
+msgstr ""
+"Düzeltme: admin.php'de tanımsız bildirim (<a href=\"https://github.com/x-"
+"team/wp-stream/issues/468\">#468</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Error when installing extensions from the Network Admin (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/491\">#491</a>)"
+msgstr ""
+"Düzeltme: Ağ Yöneticisi'nden uzantıları yüklerken hata (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/491\">#491</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Extensions screen CSS bug in Firefox (<a href=\"https://github.com/x-"
+"team/wp-stream/issues/464\">#464</a>)"
+msgstr ""
+"Düzeltme: Firefox'ta uzantılar ekranında CSS hatası (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/464\">#464</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Way for developers to set their Stream Extensions affiliate ID on "
+"links from the Extensions screen (<a href=\"https://github.com/x-team/wp-"
+"stream/issues/482\">#482</a>)"
+msgstr ""
+"Tweak: Geliştiriciler için, Uzantılar ekranından bağlantılarda Stream "
+"Uzantıları üyesi kimliğini belirlemeleri için bir yol (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/482\">#482</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Better handling of authors in the list table (<a href=\"https:"
+"//github.com/x-team/wp-stream/pull/448\">#448</a>)"
+msgstr ""
+"Tweak: Liste tablosunda yazarların daha iyi ele alınması (<a href=\"https:"
+"//github.com/x-team/wp-stream/pull/448\">#448</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Provide option label for records that show when the Stream database "
+"has updated (<a href=\"https://github.com/x-team/wp-stream/pull/444\">"
+"#444</a>)"
+msgstr ""
+"Tweak: Stream veritabanının ne zaman güncellendiğini gösteren kayıtlar için "
+"seçenek etiketi sağlayın (<a href=\"https://github.com/x-team/wp-"
+"stream/pull/444\">#444</a>)
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Filter introduced to allow the Stream admin menu position to be "
+"changed (<a href=\"https://github.com/x-team/wp-stream/issues/99\">#99</a>)"
+msgstr ""
+"Tweak: Stream admin menü konumunun değiştirilmesine izin vermek için filtre "
+"eklendi (<a href=\"https://github.com/x-team/wp-stream/issues/99\">#99</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Admin pointers to highlight when new admin screens are introduced (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/466\">#466</a>)"
+msgstr ""
+"Yeni: Yeni yönetici ekranlarının ne zaman kullanıma sunulacağını vurgulayan "
+"yönetici işaretçileri (<a href=\"https://github.com/x-team/wp-"
+"stream/issues/466\">#466</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Notices for non-existent extension data after timeout (<a href=\"https:"
+"//github.com/x-team/wp-stream/pull/529\">#529</a>)"
+msgstr ""
+"Düzeltme: Zaman aşımından sonra var olmayan uzantı verileri için bildirimler "
+"(<a href=\"https://github.com/x-team/wp-stream/pull/529\">#529</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Warnings seen when Show Avatars is disabled (<a href=\"https://github."
+"com/x-team/wp-stream/issues/518\">#518</a>)"
+msgstr ""
+"Düzeltme: Avatarları Göster devre dışı olduğunda görülen uyarılar (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/518\">#518</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Incompatibility with multi-server environments (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/517\">#517</a>)"
+msgstr ""
+"Düzeltme: Çok sunuculu ortamlarla uyumsuzluk (<a href=\"https://github.com/x-"
+"team/wp-stream/issues/517\">#517</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Author info showing up incorrectly (<a href=\"https://github.com/x-"
+"team/wp-stream/issues/505\">#505</a>)"
+msgstr ""
+"Düzeltme: Yanlış bilgi gösteren yazar bilgisi (<a href=\"https://github."
+"com/x-team/wp-stream/issues/505\">#505</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Extension activation links broken when plugin folders are renamed (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/502\">#502</a>)"
+msgstr ""
+"Düzeltme: Eklenti klasörleri yeniden adlandırıldığında uzantı etkinleştirme "
+"bağlantıları bozulur (<a href=\"https://github.com/x-team/wp-"
+"stream/issues/502\">#502</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Switching user is incorrectly tracked (<a href=\"https://github.com/x-"
+"team/wp-stream/issues/501\">#501</a>)"
+msgstr ""
+"Düzeltme: Kullanıcı geçişi yanlış izleniyor (<a href=\"https://github.com/x-"
+"team/wp-stream/issues/501\">#501</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Taxonomy connector conflicts with Edit Flow plugin (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/498\">#498</a>)"
+msgstr ""
+"Düzeltme: Edit Flow eklentisi ile taksonomi bağlayıcı çakışmaları (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/498\">#498</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Custom authentication schemes not tracking user logins correctly (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/434\">#434</a>)"
+msgstr ""
+"Düzeltme: Kullanıcı oturum açma bilgilerini doğru şekilde izlemeyen özel "
+"kimlik doğrulama şemaları (<a href=\"https://github.com/x-team/wp-"
+"stream/issues/434\">#434</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: One admin notice for any missing DB tables (<a href=\"https://github."
+"com/x-team/wp-stream/pull/506\">#506</a>)"
+msgstr ""
+"Tweak: Eksik DB tabloları için bir yönetici uyarısı (<a href=\"https:"
+"//github.com/x-team/wp-stream/pull/506\">#506</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Rename \"ID\" column label to \"Record ID\" (<a href=\"https://github."
+"com/x-team/wp-stream/issues/490\">#490</a>)"
+msgstr ""
+"Tweak: \"Kimlik\" sütun etiketini \"Kayıt Kimliği\" olarak yeniden adlandırı "
+"(<a href=\"https://github.com/x-team/wp-stream/issues/490\">#490</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Add filterable method for excluded comment types (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/487\">#487</a>)"
+msgstr ""
+"Tweak: Dışlanan yorum türleri için filtrelenebilir yöntem ekle (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/487\">#487</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Lightweight frontend indicator for sites using Stream (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/507\">#507</a>)"
+msgstr ""
+"Yeni: Stream kullanan siteler için hafif önyüz göstergesi (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/507\">#507</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Stream settings exclude error for big wp_users table (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/551\">#551</a>)"
+msgstr ""
+"Düzeltme: Akış ayarları büyük wp_users tablosu için hatayı içermez <a "
+"href=\"https://github.com/x-team/wp-stream/issues/551\">#551</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Conflict with Jetpack body class in WP Admin (<a href=\"https://github."
+"com/x-team/wp-stream/issues/545\">#545</a>)"
+msgstr ""
+"Düzeltme: WP Yönetiminde Jetpack body sınıfı ile çakışma (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/545\">#545</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Cannot exclude Custom Background context (<a href=\"https://github."
+"com/x-team/wp-stream/issues/543\">#543</a>)"
+msgstr ""
+"Düzeltme: Özel Arkaplan bağlamı hariç tutulamaz (<a href=\"https://github."
+"com/x-team/wp-stream/issues/543\">#543</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Fatal error when PHP version is less than 5.3 (<a href=\"https://github."
+"com/x-team/wp-stream/issues/538\">#538</a>)"
+msgstr ""
+"Düzeltme: PHP sürümü 5.3'ten küçük olduğunda önemli hata (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/538\">#538</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Widget records show sidebar slug instead of label (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/531\">#531</a>)"
+msgstr ""
+"Düzeltme: Widget kayıtları etiket yerine kenar çubuğu etiketini gösterir (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/531\">#531</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Stream runs install routine twice (<a href=\"https://github.com/x-"
+"team/wp-stream/issues/528\">#528</a>)"
+msgstr ""
+"Düzeltme: Stream iki kez rutini yüklemeye çalışır (<a href=\"https://github."
+"com/x-team/wp-stream/issues/528\">#528</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Excluding roles is not handled properly (<a href=\"https://github.com/x-"
+"team/wp-stream/issues/527\">#527</a>)"
+msgstr ""
+"Düzeltme: Roller hariç tutulması gerektiği gibi ele alınmıyor (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/527\">#527</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Remove all uses of extract() from Stream (<a href=\"https://github."
+"com/x-team/wp-stream/issues/556\">#556</a>)"
+msgstr ""
+"Tweak: Stream'den extract () 'ın tüm kullanımlarını kaldırın (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/556\">#556</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Stop tracking failed login attempts (<a href=\"https://github.com/x-"
+"team/wp-stream/issues/547\">#547</a>)"
+msgstr ""
+"Tweak: Başarısız oturum açma girişimlerini takip etmeyi durdur (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/547\">#547</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Consolidate show filter and show column screen options (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/542\">#542</a>)"
+msgstr ""
+"Tweak: Göster filtresini birleştir ve sütun ekranı seçeneklerini göster (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/542\">#542</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Use core language pack translations where possible (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/534\">#534</a>)"
+msgstr ""
+"Tweak: Mümkün olduğunda çekirdek dil paketi çevirilerini kullanın (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/534\">#534</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Actions provided for trashed posts are irrelevant (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/523\">#523</a>)"
+msgstr ""
+"Tweak: Çöpe atılan mesajlar için sağlanan işlemler alakasız (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/523\">#523</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: .po and .pot files out-of-date for translators (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/584\">#584</a>)"
+msgstr ""
+"Düzeltme: .po ve .pot dosyaları çevirmenler için güncel değil (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/584\">#584</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Track user count setting changes (<a href=\"https://github.com/x-"
+"team/wp-stream/issues/583\">#583</a>)"
+msgstr ""
+"Düzeltme: Kullanıcı sayısı ayarındaki değişiklikleri takip et (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/583\">#583</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: PHP warning when deleting network users (<a href=\"https://github.com/x-"
+"team/wp-stream/issues/579\">#579</a>)"
+msgstr ""
+"Düzeltme: Ağ kullanıcılarını silerken PHP uyarısı (<a href=\"https://github."
+"com/x-team/wp-stream/issues/579\">#579</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Datepicker opens again with each paged view (<a href=\"https://github."
+"com/x-team/wp-stream/issues/568\">#568</a>)"
+msgstr ""
+"Düzeltme: Tarih seçici her disk belleği görünümünde tekrar açılır (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/568\">#568</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Comment Type support added to the Comments connector (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/558\">#558</a>)"
+msgstr ""
+"Yeni: Yorum Tipine destek eklenen Yorum bağlayıcı (<a href=\"https://github."
+"com/x-team/wp-stream/issues/558\">#558</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Incorrect action label for comment throttling (<a href=\"https://github."
+"com/x-team/wp-stream/issues/591\">#591</a>)"
+msgstr ""
+"Düzeltme: Yorum azaltma için yanlış işlem etiketi (<a href=\"https://github."
+"com/x-team/wp-stream/issues/591\">#591</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Post Revision ID associated to record is not the most recent one (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/585\">#585</a>)"
+msgstr ""
+"Düzeltme: Kayıtla ilişkili Revizyon Kimliği en iyilerinden biri değil (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/585\">#585</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Stream menu appearing in Network menu when not network activated (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/582\">#582</a>)"
+msgstr ""
+"Düzeltme: Ağ etkin değilken Stream menüsünde görünen akış menüsü (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/582\">#582</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Labels not seen for CPT registered on init with default priority (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/565\">#565</a>)"
+msgstr ""
+"Düzeltme: Öntanımlı olarak varsayılan kaydedilen CPT için görünmeyen "
+"etiketler (<a href=\"https://github.com/x-team/wp-stream/issues/565\">"
+"#565</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Track changes to options more deeply (<a href=\"https://github.com/x-"
+"team/wp-stream/pull/573\">#573</a>)"
+msgstr ""
+"Tweak: Seçenekleri daha derinden değiştirir (<a href=\"https://github.com/x-"
+"team/wp-stream/pull/573\">#573</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Log WP-CLI details to Stream author meta (<a href=\"https://github."
+"com/x-team/wp-stream/issues/470\">#470</a>)"
+msgstr ""
+"Tweak: WP-CLI ayrıntılarını Stream author meta dosyasına kaydet (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/470\">#470</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Now tracking when Akismet automatically marks comments as spam (<a "
+"href=\"https://github.com/x-team/wp-stream/pull/587\">#587</a>)"
+msgstr ""
+"Yeni: Akismet yorumları otomatik olarak spam olarak işaretlediğinde izleme "
+"(<a href=\"https://github.com/x-team/wp-stream/pull/587\">#587</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Greatly improved widget tracking, including changes performed in "
+"Customizer (<a href=\"https://github.com/x-team/wp-stream/pull/391\">#391</a>"
+")"
+msgstr ""
+"Yeni: Özelleştirici'de gerçekleştirilen değişiklikler dahil olmak üzere "
+"büyük ölçüde geliştirilmiş widget izleme (<a href=\"https://github.com/x-"
+"team/wp-stream/pull/391\">#391</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Notices not firing on correct action (<a href=\"https://github.com/x-"
+"team/wp-stream/issues/589\">#589</a>)"
+msgstr ""
+"Düzeltme: Uyarılar doğru işlem yapılmıyor (<a href=\"https://github.com/x-"
+"team/wp-stream/issues/589\">#589</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Revert usage of get_taxonomy() (<a href=\"https://github.com/x-team/wp-"
+"stream/pull/586\">#586</a>)"
+msgstr ""
+"Düzeltme: get_taxonomy () işlevini geri alma (<a href=\"https://github.com/x-"
+"team/wp-stream/pull/586\">#586</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Revert delayed log mechanism for post transition (<a href=\"https:"
+"//github.com/x-team/wp-stream/issues/585\">#585</a>)"
+msgstr ""
+"Düzeltme: Gönderi geçişi için günlük gecikmeli işleyişi geri al (<a "
+"href=\"https://github.com/x-team/wp-stream/issues/585\">#585</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"You create an account for Stream simply by signing in with your WordPress."
+"com ID"
+msgstr ""
+"Sadece WordPress.com kimliğiyle oturum açarak Stream için bir hesap "
+"oluşturabilirsiniz."
+
+#. Found in changelog list item.
+msgid ""
+"Connectors for tracking other popular plugins are now built into Stream, "
+"like BuddyPress, Jetpack, Gravity Forms, and more..."
+msgstr ""
+"Bağlayıcılar diğer popüler eklentileri takip etmek için şimdi, BuddyPress, "
+"Jetpack, Gravity Forms ve daha fazlası... gibi artık Stream'e dahil edildi."
+
+#. Found in changelog list item.
+msgid ""
+"Notifications and Reports are now conveniently built into Stream for Pro "
+"subscribers"
+msgstr ""
+"Bildirimler ve Raporlar artık uygun bir şekilde Profesyoneller için Stream "
+"abonelerine eklenmiştir"
+
+#. Found in changelog list item.
+msgid "The Exclude Rules UI has been completely revamped"
+msgstr "Hariç Tutulan Kurallar Kullanıcı Arayüzü tamamen yenilenmiştir"
+
+#. Found in changelog list item.
+msgid "Connector and Context have merged in the UI, now just called Contexts"
+msgstr ""
+"Bağlayıcı ve İçerik UI'de birleştirildi, şimdi sadece Bağlam olarak "
+"adlandırılıyor."
+
+#. Found in changelog list item.
+msgid ""
+"All activity is now stored only in the cloud over SSL, local MySQL storage "
+"dependence is over!"
+msgstr ""
+"Tüm etkinlikler artık yalnızca SSL üzerinden bulutta depolanıyor, yerel "
+"MySQL depolama bağımlılığı bitti!"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: ACF Pro doesn't save custom field values when Stream enabled (<a "
+"href=\"https://github.com/wp-stream/stream/issues/642\">#642</a>)"
+msgstr ""
+"Düzeltme: Stream etkinleştirildiğinde ACF Pro özel alan değerlerini "
+"kaydetmez (<a href=\"https://github.com/wp-stream/stream/issues/642\">"
+"#642</a>)"
+
+#. Found in changelog list item.
+msgid "Tweak: Improved tooltip text explaining WP.com sign in"
+msgstr "Tweak: WP.com oturumunu açıklayan geliştirilmiş araç ipucu metni"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Improved localization strings throughout the plugin (<a href=\"https:"
+"//github.com/wp-stream/stream/pull/644\">#644</a>)"
+msgstr ""
+"Tweak: Eklenti boyunca iyileştirilmiş yerelleştirme dizeleri (<a "
+"href=\"https://github.com/wp-stream/stream/pull/644\">#644</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Prevent live updates from tampering with filtered results (<a "
+"href=\"https://github.com/wp-stream/stream/issues/675\">#675</a>)"
+msgstr ""
+"Düzelt: Canlı güncellemelerin filtrelenmiş sonuçlarla kurcalanmasını önle "
+"(<a href=\"https://github.com/wp-stream/stream/issues/675\">#675</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Non-static method called statically in WPSEO connector (<a href=\"https:"
+"//github.com/wp-stream/stream/issues/668\">#668</a>)"
+msgstr ""
+"Düzeltme: WPSEO bağlayıcısında statik olarak adlandırılan statik olmayan "
+"yöntem (<a href=\"https://github.com/wp-stream/stream/issues/668\">#668</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: PHP warnings caused by Menu connector (<a href=\"https://github.com/wp-"
+"stream/stream/issues/663\">#663</a>)"
+msgstr ""
+"Düzeltme: Menü bağlayıcısının neden olduğu PHP uyarıları (<a href=\"https:"
+"//github.com/wp-stream/stream/issues/663\">#663</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Post revision action link pointing to wrong revision ID (<a "
+"href=\"https://github.com/wp-stream/stream/issues/585\">#585</a>)"
+msgstr ""
+"Düzeltme: Yanlış revizyon kimliğine işaret eden revizyon eylemi bağlantısı "
+"(<a href=\"https://github.com/wp-stream/stream/issues/585\">#585</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Opt-in required for WP Cron tracking (<a href=\"https://github.com/wp-"
+"stream/stream/issues/673\">#673</a>)"
+msgstr ""
+"Tweak: WP Cron izleme için gereklidir (<a href=\"https://github.com/wp-"
+"stream/stream/issues/673\">#673</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Opt-in required for comment flood tracking (<a href=\"https://github."
+"com/wp-stream/stream/issues/656\">#656</a>)"
+msgstr ""
+"Tweak: Yorum akışının izlenmesi için gereklidir (<a href=\"https://github."
+"com/wp-stream/stream/issues/656\">#656</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Ignore comments deleted when deleting parent post (<a href=\"https:"
+"//github.com/wp-stream/stream/issues/652\">#652</a>)"
+msgstr ""
+"Tweak: Ana gönderiyi silerken silinen yorumları yoksay (<a href=\"https:"
+"//github.com/wp-stream/stream/issues/652\">#652</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Opt-in required for Akismet tracking (<a href=\"https://github.com/wp-"
+"stream/stream/issues/649\">#649</a>)"
+msgstr ""
+"Tweak: Akismet takibi için gerekenler (<a href=\"https://github.com/wp-"
+"stream/stream/issues/649\">#649</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Inherit role access from Stream Settings for Notifications and "
+"Reports (<a href=\"https://github.com/wp-stream/stream/issues/641\">#641</a>)"
+msgstr ""
+"Tweak: Bildirimler ve Raporlar için Stream Ayarları'ndan rol erişimini miras "
+"al (<a href=\"https://github.com/wp-stream/stream/issues/641\">#641</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Stream connector to track Stream-specific contexts and actions (<a "
+"href=\"https://github.com/wp-stream/stream/issues/622\">#622</a>)"
+msgstr ""
+"Yeni: Stream'e özel bağlamları ve işlemleri izlemek için Stream bağlantısı "
+"(<a href=\"https://github.com/wp-stream/stream/issues/622\">#622</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Unread count badge added to Stream menu, opt-out available in User "
+"Profile (<a href=\"https://github.com/wp-stream/stream/issues/588\">#588</a>)"
+msgstr ""
+"Yeni: Stream menüsüne eklenen okunmamış sayım işaretini, Kullanıcı "
+"Profilinde devre dışı bırakma mevcut (<a href=\"https://github.com/wp-"
+"stream/stream/issues/588\">#588</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Full record backtrace now available to developers for debugging (<a "
+"href=\"https://github.com/wp-stream/stream/issues/467\">#467</a>)"
+msgstr ""
+"Yeni: Hata ayıklama için geliştiricilere artık tam kayıt geri izleme (<a "
+"href=\"https://github.com/wp-stream/stream/issues/467\">#467</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: PHP warning shown for some users when deleting plugins (<a href=\"https:"
+"//github.com/wp-stream/stream/issues/695\">#695</a>)"
+msgstr ""
+"Düzeltme: Bazı kullanıcılar için eklentileri silerken PHP uyarısı gösterilir."
+" (<a href=\"https://github.com/wp-stream/stream/issues/695\">#695</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Prevent Notification Rule meta from being saved to all post types (<a "
+"href=\"https://github.com/wp-stream/stream/issues/693\">#693</a>)"
+msgstr ""
+"Düzeltme: Bildirim Kuralını Önleme metalarının tüm posta türlerine "
+"kaydedilmesini engelle (<a href=\"https://github.com/wp-"
+"stream/stream/issues/693\">#693</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: N/A user not working in exclude rules (<a href=\"https://github.com/wp-"
+"stream/stream/issues/688\">#688</a>)"
+msgstr ""
+"Düzeltme: Kullanılmayan N/A kullanıcısı kuralları hariç çalşımıyor (<a "
+"href=\"https://github.com/wp-stream/stream/issues/688\">#688</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Hook into external class load methods on init rather than "
+"plugins_loaded (<a href=\"https://github.com/wp-stream/stream/issues/686\">"
+"#686</a>)"
+msgstr ""
+"Düzeltme: plugins_loaded yerine init üzerinde harici sınıf yükleme "
+"yöntemlerine kanca (<a href=\"https://github.com/wp-"
+"stream/stream/issues/686\">#686</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Handle boolean values appropriately during wp_stream_log_data filter "
+"(<a href=\"https://github.com/wp-stream/stream/issues/680\">#680</a>)"
+msgstr ""
+"Düzeltme: wp_stream_log_data filtresi sırasında boolean değerlerini uygun "
+"şekilde kullanın (<a href=\"https://github.com/wp-stream/stream/issues/680\">"
+"#680</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Search results now ordered by date instead of relevance (<a "
+"href=\"https://github.com/wp-stream/stream/issues/689\">#689</a>)"
+msgstr ""
+"Tweak: Arama sonuçları artık alaka düzeyi yerine tarihe göre sıralandı (<a "
+"href=\"https://github.com/wp-stream/stream/issues/689\">#689</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Silently disable Stream during content import (<a href=\"https:"
+"//github.com/wp-stream/stream/issues/672\">#672</a>)"
+msgstr ""
+"Tweak: İçeriği içe aktarma sırasında Stream'i sessizce devre dışı bırak (<a "
+"href=\"https://github.com/wp-stream/stream/issues/672\">#672</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: WP-CLI command now available for querying records via the command line "
+"(<a href=\"https://github.com/wp-stream/stream/issues/499\">#499</a>)"
+msgstr ""
+"Yeni: WP-CLI komutu artık komut satırı üzerinden kayıtları sorgulamak için "
+"kullanılabilir (<a href=\"https://github.com/wp-stream/stream/issues/499\">"
+"#499</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Properly return record success/failure in log and store methods (<a "
+"href=\"https://github.com/wp-stream/stream/issues/711\">#711</a>)"
+msgstr ""
+"Düzeltme: Doğru kayıt kaydının başarısını / başarısızlığını düzgün şekilde "
+"kaydet ve yöntemleri kaydet (<a href=\"https://github.com/wp-"
+"stream/stream/issues/711\">#711</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Allow properties with values of zero to be included in queries (<a "
+"href=\"https://github.com/wp-stream/stream/issues/698\">#698</a>)"
+msgstr ""
+"Düzeltme: Sorgulara dahil edilecek sıfır değere sahip özelliklere izin ver "
+"(<a href=\"https://github.com/wp-stream/stream/issues/698\">#698</a>)"
+
+#. Found in changelog list item.
+msgid "Tweak: Limit legacy record migrations based on the Stream plan type"
+msgstr "Tweak: Stream planı türüne göre eski kayıt geçişlerini sınırlayın"
+
+#. Found in changelog list item.
+msgid "Tweak: Limit custom range datepickers based on the Stream plan type"
+msgstr ""
+"Tweak: Stream planı tipine göre özel aralıklı tarih seçicilerini sınırlayın"
+
+#. Found in changelog list item.
+msgid "Tweak: Better highlighting on multiple live update rows"
+msgstr "Tweak: Birden çok canlı güncelleme satırında daha iyi vurgulama"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Add link to https://wp-stream.com in README (<a href=\"https://github."
+"com/wp-stream/stream/issues/709\">#709</a>)"
+msgstr ""
+"Tweak: README'de https://wp-stream.com adresine bağlantı ekle (<a "
+"href=\"https://github.com/wp-stream/stream/issues/709\">#709</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: WP-CLI command output improvements via <code>--format</code> option "
+"for table view, JSON and CSV (<a href=\"https://github.com/wp-"
+"stream/stream/pull/705\">#705</a>)"
+msgstr ""
+"Tweak: Tablo görünümü, JSON ve CSV için <code>--format</code> seçeneği ile "
+"WP-CLI komut çıkışı iyileştirmeleri (<a href=\"https://github.com/wp-"
+"stream/stream/pull/705\">#705</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Add reset button to reset search filters (<a href=\"https://github."
+"com/wp-stream/stream/issues/144\">#144</a>)"
+msgstr ""
+"Yeni: Arama filtrelerini sıfırlamak için sıfırlama butonunu ekleyin (<a "
+"href=\"https://github.com/wp-stream/stream/issues/144\">#144</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Broken date range filter on Reports screen (<a href=\"https://github."
+"com/wp-stream/stream/pull/717\">#717</a>)"
+msgstr ""
+"Düzelt: Raporlar ekranında bozuk tarih aralığı filtresi (<a href=\"https:"
+"//github.com/wp-stream/stream/pull/717\">#717</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Compatibility issues with WP-Cron Control plugin and system crons (<a "
+"href=\"https://github.com/wp-stream/stream/issues/715\">#715</a>)"
+msgstr ""
+"Düzeltme: WP-Cron Kontrol eklentisi ve sistem crons ile uyumluluk sorunları "
+"(<a href=\"https://github.com/wp-stream/stream/issues/715\">#715</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Match new default admin colors introduced in WordPress 4.2 (<a "
+"href=\"https://github.com/wp-stream/stream/pull/718\">#718</a>)"
+msgstr ""
+"Tweak: WordPress 4.2 de getirilen yeni varsayılan yönetici renklerini "
+"eşleştirin (<a href=\"https://github.com/wp-stream/stream/pull/718\">#718</a>"
+")"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Add support for future and pending post transitions (<a href=\"https:"
+"//github.com/wp-stream/stream/pull/716\">#716</a>)"
+msgstr ""
+"Tweak: Gelecek ve bekleyen gönderi geçişleri için destek ekleyin (<a "
+"href=\"https://github.com/wp-stream/stream/pull/716\">#716</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Compatibility with split terms introduced in WordPress 4.2 (<a "
+"href=\"https://github.com/wp-stream/stream/issues/702\">#702</a>)"
+msgstr ""
+"Tweak: WordPress 4.2'de sunulan bölünmüş koşullarla uyumluluk (<a "
+"href=\"https://github.com/wp-stream/stream/issues/702\">#702</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Removed: Notifications and Reports have been removed to be reworked for an "
+"upcoming release."
+msgstr ""
+"Kaldırıldı: Gelecek bir sürüm için yeniden işlenmesi için Bildirimler ve "
+"Raporlar kaldırıldı."
+
+#. Found in changelog list item.
+msgid ""
+"New: Various measures and database schema changes to improve Stream's "
+"performance."
+msgstr ""
+"Yeni: Stream'in performansını iyileştirmek için çeşitli önlemler ve "
+"veritabanı şeması değişiklikleri."
+
+#. Found in changelog list item.
+msgid ""
+"New: Migration process for Stream 2 users to move records out of the cloud, "
+"and into your local database."
+msgstr ""
+"Yeni: Stream 2 kullanıcının kayıtlarını buluttan ve yerel veritabanınıza "
+"taşımak için geçiş süreci."
+
+#. Found in changelog list item.
+msgid ""
+"New: Activity logs are now stored locally in WordPress. No data is sent "
+"externally and no registration required."
+msgstr ""
+"Yeni: Etkinlik günlükleri artık WordPress'te yerel olarak depolanıyor. "
+"Harici olarak veri gönderilmez ve kayıt gerekli değildir"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Live updates work again (<a href=\"https://github."
+"com/xwp/stream/pull/739\">#739</a>)"
+msgstr ""
+"Düzeltme: Canlı güncellemeler tekrar çalışıyor (<a href=\"https://github."
+"com/xwp/stream/pull/739\">#739</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Stream now works with custom wp-content folder locations (<a "
+"href=\"https://github.com/xwp/stream/pull/745\">#745</a>)"
+msgstr ""
+"Düzeltme: Stream şimdi özel wp-icontent klasörü konumları ile çalışıyor (<a "
+"href=\"https://github.com/xwp/stream/pull/745\">#745</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Updating from version 1.4.9 no longer breaks your records (<a "
+"href=\"https://github.com/xwp/stream/pull/749\">#749</a>)"
+msgstr ""
+"Düzeltme: 1.4.9 sürümünden güncelleme artık kayıtlarınızı kırmıyor (<a "
+"href=\"https://github.com/xwp/stream/pull/749\">#749</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: We're now using local styles for our datepicker, instead of loading "
+"them externally (<a href=\"https://github.com/xwp/stream/pull/751\">#751</a>)"
+msgstr ""
+"Tweak: Şu anda dışarıdan yüklemek yerine, tarih seçkimiz için yerel stilleri "
+"kullanıyoruz (<a href=\"https://github.com/xwp/stream/pull/751\">#751</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: You can now choose to keep your records indefinitely (probably not a "
+"good idea) (<a href=\"https://github.com/xwp/stream/pull/748\">#748</a>)"
+msgstr ""
+"Yeni: Artık kayıtlarınızı süresiz olarak tutmayı seçebilirsiniz (Muhtemelen "
+"iyi bir fikir değil) (<a href=\"https://github.com/xwp/stream/pull/748\">"
+"#748</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"New: Stream and <a href=\"https://wordpress.org/plugins/user-switching/\">"
+"User Switching</a> are now besties (<a href=\"https://github."
+"com/xwp/stream/pull/744\">#744</a>)"
+msgstr ""
+"Yeni: Stream ve <a href=\"https://wordpress.org/plugins/user-switching/\">"
+"Kullanıcı Değiştirme</a>şimdi en iyileri (<a href=\"https://github."
+"com/xwp/stream/pull/744\">#744</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Reset Filters text no longer wraps to a second line (<a href=\"https:"
+"//github.com/xwp/stream/pull/765\">#765</a>)"
+msgstr ""
+"Düzeltme: Sıfırla Filtreler metni artık ikinci bir satıra kaydırmıyor (<a "
+"href=\"https://github.com/xwp/stream/pull/765\">#765</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Jetpack is now able to connect without error while Stream is active (<a "
+"href=\"https://github.com/xwp/stream/pull/768\">#768</a>)"
+msgstr ""
+"Düzeltme: Stream etkinken Jetpack artık hatasız bağlanabiliyor (<a "
+"href=\"https://github.com/xwp/stream/pull/768\">#768</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Record action links are back (<a href=\"https://github."
+"com/xwp/stream/pull/773\">#773</a>)"
+msgstr ""
+"Düzeltme: Kayıt eylem bağlantıları geri döndü (<a href=\"https://github."
+"com/xwp/stream/pull/773\">#773</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: The record's connector was being incorrectly stored as the connector "
+"name (<a href=\"https://github.com/xwp/stream/pull/773\">#773</a>)"
+msgstr ""
+"Düzeltme: Kaydın bağlayıcısı, bağlayıcı adı olarak yanlış depolanıyordu (<a "
+"href=\"https://github.com/xwp/stream/pull/773\">#773</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Database update dialog is now displayed correctly (<a href=\"https:"
+"//github.com/xwp/stream/pull/773\">#773</a>)"
+msgstr ""
+"Düzeltme: Veritabanı güncelleme iletişim kutusu artık doğru bir şekilde "
+"görüntüleniyor (<a href=\"https://github.com/xwp/stream/pull/773\">#773</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Records page title size now matches other admin pages (<a "
+"href=\"https://github."
+"com/xwp/stream/commit/afcced8b590e047e8adfe6ae79483a7436c849f4\">afcced8</a>)"
+msgstr ""
+"Tweak: Kayıtlar sayfa başlık boyutu artık diğer yönetici sayfalarıyla "
+"eşleşiyor (<a href=\"https://github."
+"com/xwp/stream/commit/afcced8b590e047e8adfe6ae79483a7436c849f4\">afcced8</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Better handling of draft saving and auto-saving (<a href=\"https:"
+"//github.com/xwp/stream/pull/775\">#775</a>)"
+msgstr ""
+"Tweak: Taslak kaydetmenin ve otomatik kaydetmenin daha iyi kullanımı (<a "
+"href=\"https://github.com/xwp/stream/pull/775\">#775</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Migration dialog removed (<a href=\"https://github."
+"com/xwp/stream/commit/76e809f9abb3dd691b755cf943b50a76a3ffb488\">76e809f</a>)"
+msgstr ""
+"Tweak: Geçiş iletişim kutusu kaldırıldı (<a href=\"https://github."
+"com/xwp/stream/commit/76e809f9abb3dd691b755cf943b50a76a3ffb488\">76e809f</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Helper function for running Stream queries added (<a href=\"https:"
+"//github.com/xwp/stream/pull/774\">#774</a>)"
+msgstr ""
+"Tweak: Stream sorgularını çalıştırmak için yardımcı işlev eklendi (<a "
+"href=\"https://github.com/xwp/stream/pull/774\">#774</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: EDD connector bug (<a href=\"https://github.com/xwp/stream/pull/790\">"
+"#790</a>)"
+msgstr ""
+"Düzeltme: EDD bağlayıcı hatası (<a href=\"https://github."
+"com/xwp/stream/pull/790\">#790</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Internet Explorer 8 fix!! IE8!? Come on, people, it's 2015. (<a "
+"href=\"https://github.com/xwp/stream/pull/789\">#789</a>)"
+msgstr ""
+"Fix: Internet Explorer 8 düzeltin! IE8!? Hadi millet, O 2015. (<a "
+"href=\"https://github.com/xwp/stream/pull/789\">#789</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Multiple Multisite Mistakes Mended (<a href=\"https://github."
+"com/xwp/stream/pull/788\">#788</a>)"
+msgstr ""
+"Düzeltme: Birden Çok Yaygın Hata Düzeltildi (<a href=\"https://github."
+"com/xwp/stream/pull/788\">#788</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Fixed a smal typo (<a href=\"https://github."
+"com/xwp/stream/commit/62455c518b95ddaf5e6c6c0733e7d03e5aa1311c\">62455c5</a>)"
+msgstr ""
+"Düzeltme: Küçük bir yazım hatası düzeltildi (<a href=\"https://github."
+"com/xwp/stream/commit/62455c518b95ddaf5e6c6c0733e7d03e5aa1311c\">62455c5</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Stream no longer explodes on &lt; PHP 5.3, when trying to tell you that "
+"it explodes on &lt; PHP 5.3 (<a href=\"https://github."
+"com/xwp/stream/pull/781\">#781</a>)"
+msgstr ""
+"Düzeltme: Stream artık patlamaz & lt; PHP 5.3, patladığını anlatmaya "
+"çalıştığınızda & lt; PHP 5.3  (<a href=\"https://github."
+"com/xwp/stream/pull/781\">#781</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: New and improved Gravity Forms connector, works much better (<a "
+"href=\"https://github.com/xwp/stream/pull/780\">#780</a>) (thanks <a "
+"href=\"https://github.com/rob\">Rob</a>!)"
+msgstr ""
+"Düzelt: Yeni ve geliştirilmiş Gravity Formları bağlayıcısı çok daha iyi "
+"çalışıyor (<a href=\"https://github.com/xwp/stream/pull/780\">#780</a>) "
+"(thanks <a href=\"https://github.com/rob\">Rob</a>!)"
+
+#. Found in changelog list item.
+msgid "Tweak: Minor security improvements"
+msgstr "Tweak: Küçük güvenlik iyileştirmeleri"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Better compatibility with upcoming WordPress 4.4 (<a href=\"https:"
+"//github.com/xwp/stream/commit/2b2493ccb3ef6cba5aeb773433fdb5f0d414e8f3\">"
+"2b2493c</a>)"
+msgstr ""
+"Tweak: Yaklaşan WordPress 4.4 ile daha iyi uyumluluk (<a href=\"https:"
+"//github.com/xwp/stream/commit/2b2493ccb3ef6cba5aeb773433fdb5f0d414e8f3\">"
+"2b2493c</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: The Settings connector now works with WP CLI (<a href=\"https://github."
+"com/xwp/stream/commit/78a56b2c6b33b4f41c7b4f1f256a4d03ad42b2cb\">78a56b2</a>)"
+msgstr ""
+"Düzeltme: Ayarlar bağlayıcısı şimdi WP CLI ile çalışıyor (<a href=\"https:"
+"//github.com/xwp/stream/commit/78a56b2c6b33b4f41c7b4f1f256a4d03ad42b2cb\">"
+"78a56b2</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Logging in / out of a Multisite install is now possible (<a "
+"href=\"https://github.com/xwp/stream/pull/801\">#801</a>)"
+msgstr ""
+"Düzeltme: Birden çok siteye giriş / çıkış kurmak artık mümkün (<a "
+"href=\"https://github.com/xwp/stream/pull/801\">#801</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: You may now actually choose an item from the filter dropdown menus, "
+"instead of having everything greyed out (<a href=\"https://github."
+"com/xwp/stream/pull/800\">#800</a>)"
+msgstr ""
+"Düzeltme: Artık her şeyi silik bırakmak yerine, filtre açılır menülerinden "
+"bir öğe seçebilirsin (<a href=\"https://github.com/xwp/stream/pull/800\">"
+"#800</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Fix: Stream no longer crashes every time it tries to use a Jetpack (<a "
+"href=\"https://github.com/xwp/stream/pull/798\">#798</a>)"
+msgstr ""
+"Düzeltme: Stream, bir Jetpack kullanmayı denediğinde artık kilitlenmiyor (<a "
+"href=\"https://github.com/xwp/stream/pull/798\">#798</a>)"
+
+#. Found in changelog list item.
+msgid ""
+"Tweak: Better descriptions when a post changes status (<a href=\"https:"
+"//github.com/xwp/stream/commit/0eada108b443ed3b6f9bdae3f1e4c87c77128a0a\">"
+"0eada10</a>)"
+msgstr ""
+"Tweak: Bir gönderi durumu değiştiğinde daha iyi açıklamalar (<a href=\"https:"
+"//github.com/xwp/stream/commit/0eada108b443ed3b6f9bdae3f1e4c87c77128a0a\">"
+"0eada10</a>)"
